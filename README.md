@@ -1,4 +1,4 @@
-# Albanian wordlist v0.0.2-alpha
+# Albanian wordlist v0.0.3-alpha
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits0x08%2Falbanian-wordlist&countColor=%232ccce4&style=flat-square)
 
