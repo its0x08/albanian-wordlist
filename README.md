@@ -17,7 +17,9 @@ If you decide to make a pull request to suggest your changes to the project, ple
 
 ## Pull Requests & Issues
 You have a new word in mind?
+
 Please make a __Pull Request (_PR_)__ suggesting your changes.
+
 Otherwise you can always open an __Issue__ to help improve this project.
 
 ## Enjoy it !
