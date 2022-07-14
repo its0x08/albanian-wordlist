@@ -3,7 +3,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits0x08%2Falbanian-wordlist&countColor=%232ccce4&style=flat-square)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-This wordlist is created by combining all albanian names, last names and some common **hashcat** rules.
+This wordlist is created by combining all albanian names, last names found on wikipedia and some common **hashcat** rules.
 
 ## TODO
 
