@@ -22,6 +22,100 @@
 0692072300
 0692421522
 0693144479
+12345678
+vlora2019
+doren1996
+h&mhotel2019
+23456789
+lungomare123
+mauricio
+GrandHotel
+nacional2005
+vilanika20
+palazzine
+monte123
+19571957
+amantia1234
+000000000000000
+belvedere2018
+cadomaresh
+barlenci
+tevironi2018
+3a31972c
+diamondspa
+jungle2018
+55555555
+djepi2021
+nickelodeon123
+vlorasunset
+Sunset
+44445555
+ju20na15
+theboss2019
+piera2018
+aglon2013
+mazana18
+12345654321
+123456789
+123456u89
+nukediff
+ridalridal
+18273645
+26022004
+rei161616
+elionaderaj
+fioriramic7
+erinel2015
+Romeo123
+123454321
+19061969
+abc12345
+fatmirmarku
+alesjasuljoti
+adelajdos
+erik1971
+allushaj321
+19216802
+87654321
+08091972
+enea1993
+rias9988
+xheto1995
+12345678321
+familja1997
+sandri12
+23012000
+ABcom-Petriti
+19102017
+romeo123
+18273645
+Lavastovilie
+241212812
+19772005
+02062001
+33334444
+devis123
+pajtim123
+11112222
+kejdi2014
+2015alfbar
+37414908
+myrteza092004
+jetnor1977
+fatmir.123
+16111951
+luis2020
+gimokabar1802
+vipsvips2018
+10101010
+llotosport1
+etleva1234
+123456789
+albanhoxha
+elginelson
+54321kri
+palace2016
+03011994
 0693249475
 0694110299
 0698953454Natalia
@@ -2888,6 +2982,7 @@ afendikojt
 afendikojve
 afendikonj
 afendikonjt
+afër
 aferash
 aferat
 aferave
@@ -3216,6 +3311,7 @@ afternoon
 afterparty
 afterwards
 aftesi
+aftësi
 aftesia
 aftesin
 aftesine
@@ -4183,6 +4279,7 @@ ajrimi
 ajrimin
 ajrimit
 ajrisura
+ajrit
 ajrore
 ajrorin
 ajrosa
@@ -4517,6 +4614,7 @@ akoncio
 akoncioja
 akoncios
 akoolike
+akord
 akordanc
 akorde
 akordet
@@ -5133,6 +5231,7 @@ akujve
 akukultur
 akulim
 akulin
+akull
 akullajnore
 akulldash
 akulli
@@ -5543,6 +5642,7 @@ albaniadhe
 albaniae
 albania_en
 albanian
+Albanian
 albanianart
 albanianboxing
 albanianfilm
@@ -9408,6 +9508,7 @@ anihilues
 ani.hoxha
 ani.hoxha1
 anijata
+anije
 anijeje
 anijen
 anijes
@@ -12575,6 +12676,7 @@ argentinos
 argentshahini
 argeta
 argetim
+argëtim
 argetohem
 argetohu
 argetojn
@@ -13412,6 +13514,7 @@ armavirin
 armavirit
 armbajtje
 armchair
+armë
 armeje
 armela
 armela.ago
@@ -13449,6 +13552,7 @@ armesh
 armeve
 armida
 armija
+armik
 armike
 armiken
 armikes
@@ -13849,6 +13953,7 @@ arrijm
 arrijme
 arrijn
 arrijne
+arrijnë
 arrijsh
 arrijshin
 arrijt
@@ -14849,6 +14954,7 @@ asgjasimit
 asgjason
 asgjasuara
 asgjasue
+asgjë
 asgjekundi
 asgjekundit
 asgjencin
@@ -15281,6 +15387,7 @@ asnjan
 asnjana
 asnjane
 asnjanse
+asnjë
 asnjeh
 asnjeher
 asnjehere
@@ -16069,6 +16176,7 @@ atistikat
 atitud
 atituda
 atitudat
+atje
 atjelart
 atjelarti
 atjeposht
@@ -16190,6 +16298,7 @@ atoinette
 atoksin
 atolet
 atolik
+atom
 atomet
 atomeve
 atomic
@@ -17783,6 +17892,7 @@ avujsh
 avujve
 avukatit
 avuksi
+avull
 avulli
 avullim
 avullimi
@@ -18173,6 +18283,7 @@ baashas
 baasist
 baathists
 baauer
+baba
 bababam
 bababi
 bababum
@@ -19745,6 +19856,7 @@ banaue
 banausoi
 banauzike
 banchi
+band
 bandabi
 bandar
 bandarit
@@ -19836,6 +19948,7 @@ banesav
 banesava
 banesave
 banese
+banesë
 banesen
 baneses
 banesor
@@ -19912,6 +20025,7 @@ banjsk
 banjska
 banjsko
 banjua
+banka
 bankanve
 bankar
 bankar1
@@ -20098,6 +20212,7 @@ barabarsisht
 barabart
 barabarta
 barabarte
+barabartë
 barabartin
 barabartit
 barabartw
@@ -20252,6 +20367,7 @@ barazoja
 barazojm
 barazojn
 barazojne
+barazojnë
 barazon
 barazoni
 barazonim
@@ -20620,6 +20736,7 @@ bargullas
 bargun
 barguni
 barguzin
+bari
 bariamcanaj
 barida
 Barida
@@ -21281,6 +21398,7 @@ bashkesia
 bashkesise
 bashkesive
 bashkesu
+bashkëtingëllore
 bashkeudhetareve
 bashkfajtor
 bashkfshatar
@@ -21964,6 +22082,7 @@ bazarovit
 bazarr
 bazash
 bazave
+bazë
 bazeli
 bazelikes
 bazelin
@@ -23473,6 +23592,7 @@ berdolecit
 berdon
 berdych
 berdynaj
+bërë
 berebek
 beredit
 beregdetit
@@ -23561,6 +23681,7 @@ berhtold
 berhtoldi
 berhtoldin
 berhtoldit
+bëri
 beriahit
 beriahu
 beriahut
@@ -23809,6 +23930,7 @@ bertan
 bertani
 bertarin
 bertas
+bërtas
 bertase
 bertasi
 bertasin
@@ -24085,6 +24207,7 @@ besohen
 besohesh
 besoheshin
 besohet
+besoj
 besoja
 besoje
 besojeni
@@ -24710,6 +24833,7 @@ bielit
 biellorusia
 bielsa
 biemit
+bien
 bienal
 bienale
 bienalee
@@ -25041,6 +25165,7 @@ bimbashit
 bimbli
 bimblin
 bimblit
+bimë
 bimesh
 bimesi
 bimeve
@@ -25570,6 +25695,7 @@ bishop
 bishqem
 bishqemi
 bishqemit
+bisht
 bishta
 bishtagjat
 bishtagjelb
@@ -26294,6 +26420,7 @@ blehen
 bleheshin
 blehet
 bleick
+blej
 blejblej
 blejme
 blejmgejm
@@ -26345,6 +26472,7 @@ blerand.ismaili
 blerat
 blerati
 blerdi
+blerë
 blerejes
 bleresve
 blerian
@@ -26602,6 +26730,7 @@ bllofon
 bllogeve
 bllogjet
 bllogun
+bllok
 blloka
 bllokad
 bllokada
@@ -27118,6 +27247,7 @@ bojaxhiu
 bojaxhiun
 bojaxhiut
 bojdan
+bojë
 bojeni
 bojevi
 bojgora
@@ -27713,6 +27843,7 @@ borders
 bordesh
 bordet
 bordeve
+bordi
 bordigera
 bordikullimit
 bordin
@@ -27732,6 +27863,7 @@ bordurash
 bordurat
 bordurave
 bordure
+borë
 boreal
 boreale
 boreci
@@ -27837,6 +27969,7 @@ borlanges
 borlase
 bormale
 bormio
+Born
 bornajat
 borndby
 borneman
@@ -28124,6 +28257,7 @@ boterisht
 boterishtm
 botero
 boteror
+botëror
 boterore
 boterori
 boterorin
@@ -28877,6 +29011,7 @@ breedlove
 breeze
 brefit
 brefotrofi
+breg
 bregaj
 bregallnic
 bregallnica
@@ -28899,6 +29034,7 @@ bregdete
 bregdetet
 bregdeteve
 bregdeti
+Bregdeti
 bregdetin
 bregdetit
 bregdri
@@ -30532,6 +30668,7 @@ bujurdi
 bukanikut
 bukaresht
 bukbijela
+bukë
 bukefali
 bukefalit
 bukenvald
@@ -31330,6 +31467,7 @@ buronja
 Buronja
 buronte
 burovi
+burra
 burracak
 burracake
 burracakeria
@@ -31735,6 +31873,7 @@ buzeqeshe
 buzeqeshi
 buzeqeshja
 buzeqeshje
+buzëqeshje
 buzeqeshjen
 buzeqeshur
 buzgaz
@@ -33161,6 +33300,7 @@ celigrad
 Çelikore
 celikt
 celiku
+çeliku
 Çelin
 celina
 Çelina
@@ -33343,6 +33483,7 @@ censuseve
 censusi
 censusin
 censusit
+cent
 centar
 centaur
 centaurea
@@ -33687,6 +33828,7 @@ cesena
 ceshte
 ceshtja
 ceshtje
+çështje
 ceshtjeje
 ceshtjen
 ceshtjes
@@ -33748,6 +33890,7 @@ cezurave
 cfakat
 cfaqet
 cfardolloj
+çfarë
 cfaredo
 cfaredoll
 cfaredolloj
@@ -35157,6 +35300,7 @@ closing
 clossing
 closure
 clotilde
+cloud
 clover
 cloverfield
 clownit
@@ -36452,6 +36596,7 @@ cuditi
 cuditsh
 cuditshem
 cuditshme
+çuditshme
 cuditshmet
 cuditshmi
 cuditur
@@ -36535,7 +36680,6 @@ cumming
 cummings
 cumont
 cumplea
-Çun
 cunamet
 cunameve
 cunami
@@ -38890,6 +39034,7 @@ degdisjes
 degdisnin
 degdiste
 degdisur
+degë
 degeneres
 degerfors
 degert
@@ -38935,6 +39080,7 @@ degjoi
 degjoj
 degjoja
 degjoje
+dëgjojë
 degjojeni
 degjojm
 degjojme
@@ -38942,6 +39088,7 @@ degjojn
 degjojne
 degjon
 degjoni
+dëgjoni
 degjonin
 degjonte
 degjosh
@@ -38950,6 +39097,7 @@ degjove
 degjua
 degjuan
 degjuar
+dëgjuar
 degjuara
 degjueshme
 degjuesit
@@ -41430,12 +41578,14 @@ dergojme
 dergojne
 dergon
 dergoni
+dërgoni
 dergonin
 dergonte
 dergov
 dergova
 derguan
 derguar
+dërguar
 derguara
 dergue
 derguesin
@@ -41448,6 +41598,7 @@ derhemi
 derhemin
 derhemit
 derhyn
+deri
 deriaa
 deriane
 deriat
@@ -42238,6 +42389,7 @@ deterrentin
 deterxhent
 detesh
 deteve
+deti
 detijon
 detikohej
 detina
@@ -42857,6 +43009,7 @@ dhembeje
 dhembejs
 dhembelit
 dhembet
+dhëmbët
 dhembi
 dhembin
 dhembj
@@ -43193,6 +43346,7 @@ dhjetash
 dhjetat
 dhjetave
 dhjete
+dhjetë
 dhjetedy
 dhjetedyvje
 dhjetegjasht
@@ -43260,6 +43414,7 @@ dhomash
 dhomat
 dhomatregtise
 dhomave
+dhomë
 dhomeje
 dhomen
 dhomes
@@ -44374,6 +44529,7 @@ dikuish
 dikujt
 dikukjt
 dikund
+dikur
 dikureshme
 dikurher
 dikuri
@@ -44799,6 +44955,7 @@ dinshum
 dinstiksion
 dinstiksioni
 dinstinktiv
+dinte
 dintorni
 dinucci
 dioalogut
@@ -45095,6 +45252,7 @@ dirore
 dirsat
 dirsin
 dirsur
+disa
 disaavantazh
 disability
 disadekad
@@ -46007,6 +46165,7 @@ ditbardh
 Ditbardh
 ditbardha
 Ditbardha
+ditë
 ditelindja
 ditelindje
 ditelindjeje
@@ -46490,6 +46649,7 @@ djajsh
 djajte
 djajve
 djakovi
+djalë
 djalekt
 djalektet
 djalekteve
@@ -46500,6 +46660,7 @@ djalektologjike
 djalelegjendar
 djalem
 djaleria
+djali
 djalin
 djalino
 djalit
@@ -46571,6 +46732,7 @@ djathtosh
 djbibril
 djebek
 djefnt
+djeg
 djegagur
 djegen
 djegesh
@@ -47882,6 +48044,7 @@ dordolec
 dordolecet
 dordoleci
 dordolecit
+dorë
 dorehehqjen
 doreheqja
 doreheqje
@@ -48111,6 +48274,7 @@ dotacionet
 dotacioneve
 dotacioni
 dotacionit
+do të thoshte
 dothan
 dotkrina
 dotkrinat
@@ -48561,6 +48725,7 @@ drejorin
 drejperdrejt
 drejpeshimin
 drejrori
+drejt
 drejta
 Drejta
 drejtar
@@ -48575,6 +48740,7 @@ drejtaur
 drejtave
 drejtazi
 drejte
+drejtë
 drejtemt
 drejten
 drejteperdrejt
@@ -48693,6 +48859,7 @@ drejtpedrejte
 drejtperdrejt
 drejtperdrejta
 drejtperdrejte
+drejtpërdrejtë
 drejtpersedrejti
 drejtpeshen
 drejtpeshim
@@ -49134,6 +49301,7 @@ dritbardh
 Dritbardh
 dritbardha
 Dritbardha
+dritë
 driten
 dritero
 driteroi
@@ -49665,6 +49833,7 @@ duchcov
 duchene
 duchess
 duchovny
+duck
 duckie
 ducroquet
 ductuli
@@ -49770,6 +49939,7 @@ duheshin
 duheshjte
 duheshka
 duheshte
+duhet
 duhetj
 duhetkoh
 duhett
@@ -49841,6 +50011,7 @@ dukeshit
 dukeshme
 dukeshn
 dukeshte
+duket
 duketasnj
 duketproblemi
 duketse
@@ -50362,6 +50533,7 @@ dydollar
 dydrejtim
 dydyershe
 dydyfisht
+dyer
 dyerhapur
 dyersh
 dyerve
@@ -50418,6 +50590,7 @@ dyfishova
 dyfisht
 dyfishta
 dyfishte
+dyfishtë
 dyfishua
 dyfishuam
 dyfishuan
@@ -50615,6 +50788,7 @@ dypushtetin
 dypushtetit
 dypyetsor
 dypytrenit
+dyqan
 dyqane
 dyqanesh
 dyqaneshpolicia
@@ -50981,11 +51155,13 @@ Eaz373TmG
 ebagua
 ebanks
 ebanozi
+e bardhë
 ebceff
 ebedidullah
 ebedit
 ebelrose
 ebenski
+e bërë
 eberiane
 eberin
 eberit
@@ -51022,6 +51198,7 @@ ebru.top
 ebsite
 ebTe2BHDz
 ebusudit
+e butë
 Ec14121987
 ec3y8ps4o
 ecajaket
@@ -51055,6 +51232,7 @@ echinaceas
 echinaces
 echinard
 echinophora
+e cila
 ecjeje
 ecjeve
 eckehard
@@ -51144,9 +51322,11 @@ edgardos
 edgari
 edgarin
 edgars
+edge
 edgerton
 edgett
 edgewood
+edhe
 edheil
 edhelojtar
 edhemaqedonia
@@ -51710,6 +51890,7 @@ egizia
 egjean
 egjeane
 egjelat
+e gjelbër
 egjeun
 egjeut
 egjeve
@@ -51814,6 +51995,7 @@ egoizmit
 egomaniak
 egorova
 egotizmi
+egra
 egrafo
 egranasit
 egrani
@@ -51975,6 +52157,7 @@ ejuplila
 ejup.lila1
 ejvallah
 Ek3965638
+e kaluara
 ekanin
 ekanit
 ekareli
@@ -52010,6 +52193,7 @@ ekipes
 ekipesh
 ekipet
 ekipeve
+ekipi
 ekipimi
 ekipimin
 ekipimit
@@ -54692,6 +54876,7 @@ emendjen
 emenduar
 emendur
 emeparshme
+emër
 emerald
 emeraldit
 emergence
@@ -55151,6 +55336,7 @@ emre.inalpolat
 emrekullueshme
 emre.tuzun
 emrgjenc
+Emri
 emridisha
 emrigrant
 emrije
@@ -55269,6 +55455,7 @@ endacaku
 endacakun
 endacakut
 endale
+ende
 endeavour
 endeavoure
 endedetaje
@@ -55283,6 +55470,7 @@ enderoj
 enderojn
 enderove
 enderr
+ëndërr
 enderra
 Ëndërrjeta
 enderroj
@@ -55465,6 +55653,7 @@ energjin
 energjine
 energjis
 energjise
+energjisë
 energjish
 energjism
 energjit
@@ -56494,6 +56683,7 @@ erdhes
 erdhesh
 erdhet
 erdheve
+erdhi
 erdhibidosherifi
 erdhja
 erdhjeve
@@ -57037,6 +57227,7 @@ erresira
 erresire
 erresires
 erresuar
+errët
 erreta
 errico
 errilit
@@ -57259,6 +57450,7 @@ esadistat
 esadiste
 esadit
 esaist
+e saj
 esarhadoni
 esarit
 esatin
@@ -57370,6 +57562,7 @@ eshtaolin
 eshtaolit
 eshtat
 eshtde
+është
 eshteedhe
 eshteje
 eshtemoan
@@ -57878,6 +58071,7 @@ etienne
 etiennea
 etihad
 etihat
+e tij
 etikat
 etikave
 etiken
@@ -58870,6 +59064,7 @@ everis
 everiut
 evernote
 evertete
+e vërtetë
 everton
 evertoni
 evertonin
@@ -59407,6 +59602,7 @@ ezerani
 ezerit
 ezeriu
 ezeven
+e zezë
 ezgjan
 ezhektorve
 ezilant
@@ -59841,6 +60037,7 @@ fakteq
 faktesh
 faktet
 fakteve
+fakti
 fakticitetin
 faktik
 faktike
@@ -60620,6 +60817,7 @@ fantomike
 fanuelit
 fapolin
 fapolit
+faqe
 faqebardh
 faqebuta
 faqedardh
@@ -60700,6 +60898,7 @@ fardales
 fardolloj
 fardoqoft
 fardoshme
+farë
 farecave
 faredin
 faredo
@@ -61480,6 +61679,7 @@ faviken
 favina
 favini
 faviorizohet
+favor
 favore
 favoresh
 favoret
@@ -61945,6 +62145,7 @@ femart
 femerore
 femija
 femije
+fëmijë
 femijen
 femijeri
 femijeria
@@ -62271,6 +62472,7 @@ fermanllinj
 fermash
 fermat
 fermave
+fermë
 fermeclirimfi
 fermeclirimFo
 fermeclirimFO
@@ -63031,6 +63233,7 @@ fiktivitete
 fiktiviteti
 fiktivitetin
 fiktivitetit
+fiku
 fikura
 fikuse
 fikusi
@@ -64522,12 +64725,14 @@ fjalaman
 fjalamane
 fjalamani
 fjalamania
+fjalë
 fjalen
 fjalepake
 fjales
 fjalesh
 fjalet
 fjaleve
+fjali
 fjalia
 fjalie
 fjalim
@@ -65004,6 +65209,7 @@ fletarrestin
 fletarrestit
 fletat
 fletave
+fletë
 fletearrestin
 fletehyrje
 fleten
@@ -65278,6 +65484,7 @@ flokat
 flokate
 flokesh
 floket
+flokët
 floknaj
 floknaja
 floknaje
@@ -65562,6 +65769,7 @@ fluturojm
 fluturojme
 fluturojn
 fluturojne
+fluturojnë
 fluturojsh
 fluturoka
 fluturon
@@ -65753,11 +65961,13 @@ folezon
 folezues
 folezuese
 folflorike
+foli
 folikulat
 folini
 folino
 folinos
 folitjona
+folje
 foljeje
 foljen
 foljes
@@ -66013,6 +66223,7 @@ forbes
 forbeswoman
 forbids
 forbsit
+forca
 forcacve
 forcaeligjit
 forcalindita
@@ -66204,6 +66415,7 @@ formave
 formavet
 formazione
 formdhet
+formë
 formello
 formelo
 formen
@@ -66362,6 +66574,7 @@ Fortana
 fortashtroj
 fortat
 fortave
+fortë
 forteberry
 fortenbary
 fortes
@@ -66549,6 +66762,7 @@ fotive
 fotjadhin
 fotkokopjeve
 fotkopjuar
+foto
 fotoakustik
 fotoalbum
 fotoalbumi
@@ -67222,6 +67436,7 @@ fravash
 fravashije
 fravashinjt
 fravesh
+fraza
 frazash
 frazat
 frazave
@@ -67480,6 +67695,7 @@ freskash
 freskat
 freskave
 fresket
+freskët
 fresketa
 freski
 freskia
@@ -67641,6 +67857,7 @@ frikase
 frikat
 frikativen
 frikave
+frikë
 frikej
 friken
 frikera
@@ -67901,6 +68118,7 @@ frustrues
 frustruese
 frustruse
 frustuese
+fruta
 frutaperimeve
 frutash
 frutat
@@ -68193,6 +68411,7 @@ fshihte
 fshihu
 fshihuni
 fshiik
+fshij
 fshija
 fshije
 fshijeni
@@ -68348,6 +68567,7 @@ ftohta
 ftohtas
 ftohtat
 ftohte
+ftohtë
 ftohti
 ftohtin
 ftohtit
@@ -68551,6 +68771,7 @@ funarin
 funarit
 funclub
 function
+fund
 fundaj
 fundaja
 fundamelstit
@@ -68888,6 +69109,7 @@ fuoristrada
 fuoristradat
 fuoristradave
 fupBHhbz3
+fuqia
 fuqidh
 fuqija
 fuqije
@@ -69131,6 +69353,7 @@ fushatore
 fushave
 fushaz
 fushbetejash
+fushë
 fushebeteja
 fushebetejen
 fushek
@@ -69403,6 +69626,7 @@ fytyrash
 fytyrat
 fytyrave
 fytyre
+fytyrë
 fytyren
 fytyres
 fytyreshuar
@@ -70288,6 +70512,7 @@ gardner
 gardneri
 gardnerin
 gardnerit
+garë
 garebit
 garentina
 Garentina
@@ -70538,6 +70763,7 @@ gateway
 gatewick
 gathin
 gathit
+gati
 gatianarkike
 gatiarm
 gatiet
@@ -70828,6 +71054,7 @@ gazimestanin
 gazimestanit
 gazimit
 gazisollaku
+gazit
 gaziut
 gazivod
 gazivoda
@@ -71282,6 +71509,7 @@ genjeshtaret
 genjeshtari
 genjeshtarin
 genjeshter
+gënjeshtër
 genjeshterta
 genjeshtra
 genjeshtrash
@@ -72264,6 +72492,7 @@ gisgdol
 gishen
 gishes
 gishet
+gisht
 gishta
 gishtadridh
 gishtash
@@ -72368,6 +72597,7 @@ gjahtonte
 gjahtori
 gjahun
 gjahut
+gjak
 gjakalla
 gjakatar
 gjakatare
@@ -72633,6 +72863,7 @@ gjashtdhet
 gjashtdhjet
 gjashtdhjeta
 gjashte
+gjashtë
 gjashtedhjete
 gjashtembedhjete
 gjashti
@@ -72664,8 +72895,10 @@ gjatandaj
 gjatat
 gjatave
 gjataz
+gjatë
 gjatesi
 gjatesia
+Gjatësia
 gjatht
 gjatin
 gjatit
@@ -73069,6 +73302,7 @@ gjenezaretit
 gjenezat
 gjenezave
 gjeneze
+gjeni
 gjenia
 gjenial
 gjeniale
@@ -73401,6 +73635,7 @@ gjerdhet
 gjerdheve
 gjerdhisht
 gjerdhit
+gjerë
 gjeresi
 gjeresisht
 gjerge
@@ -74115,6 +74350,7 @@ gjithmjaftushme
 gjithmo
 gjithmon
 gjithmone
+gjithmonë
 gjithmonnnnn
 gjithmonsh
 gjithmonshm
@@ -74220,6 +74456,7 @@ gjobave
 gjobaxhi
 gjobaxhinjsh
 gjobaxhinjt
+gjobë
 gjobek
 gjobeku
 gjobekun
@@ -74586,6 +74823,7 @@ gjuetis
 gjuetise
 gjuetive
 gjugja
+gjuha
 gjuhadol
 gjuhadolit
 gjuhaime
@@ -74632,6 +74870,7 @@ gjumash
 gjumasha
 gjumashe
 gjumashi
+gjumë
 gjumin
 gjuminja
 gjumir
@@ -75096,6 +75335,7 @@ gjysmave
 gjysmazi
 gjysmaziatik
 gjysme
+gjysmë
 gjysmefinaistet
 gjysmefinale
 gjysmefinalen
@@ -75698,6 +75938,7 @@ gojazi
 gojbul
 gojcaj
 gojdhana
+gojë
 gojedh
 gojehapur
 gojkovi
@@ -75883,6 +76124,7 @@ gomarve
 gomash
 gomave
 gombar
+gomë
 gomeli
 gomelin
 gomelit
@@ -76795,6 +77037,7 @@ grataciel
 grataciela
 gratacielat
 gratacielave
+gratë
 grathore
 grathoren
 gratia
@@ -77571,6 +77814,7 @@ grryerja
 grryhet
 grseden
 grtruada
+grua
 gruaja
 gruaje
 gruapi
@@ -77723,6 +77967,7 @@ grunjtat
 grunnet
 grunores
 grunue
+grup
 grupacion
 grupacione
 grupacionet
@@ -78099,6 +78344,7 @@ guesen
 gueshm
 gueshme
 guesit
+guess
 guesthouse
 guetersloh
 guetis
@@ -78462,6 +78708,7 @@ gurgullues
 gurgulluese
 gurguri
 gurgurnic
+guri
 guribardh
 gurien
 guries
@@ -80154,6 +80401,7 @@ hangsha
 hangshin
 hangzhou
 hangzhu
+hani
 hanibal
 hanibali
 hanibalin
@@ -80289,9 +80537,11 @@ hapesir
 hapesira
 hapesirat
 hapesire
+hapësirë
 hapesiren
 hapesirsh
 hapeve
+hapi
 hapifork
 hapilabs
 hapini
@@ -80353,6 +80603,7 @@ haptoglobulinave
 hapuar
 hapuna
 hapuni
+hapur
 hapura
 hapurat
 hapurazi
@@ -80907,6 +81158,7 @@ harrushe
 harryn
 harryt
 harsdale
+Harta
 hartash
 hartat
 hartaur
@@ -81773,6 +82025,7 @@ hedajatin
 hedenburgu
 hedevej
 hedges
+hedh
 hedhej
 hedhen
 hedhesh
@@ -82618,6 +82871,7 @@ hereford
 hereher
 heremitit
 hereqin
+herës
 heresbrugg
 heresh
 hereshme
@@ -86030,6 +86284,7 @@ hundak
 hundashi
 hundashin
 hunday
+hundë
 hundertwasser
 hundes
 hundese
@@ -86346,6 +86601,7 @@ hyjesh
 hyjeshat
 hyjlind
 hyjlindis
+hyjnë
 hyjnesh
 hyjnesha
 hyjneshat
@@ -86742,6 +86998,7 @@ ibukxhinj
 ibunet
 ibuprofeni
 ibushin
+i butë
 ibzenist
 icardi
 icardin
@@ -86777,6 +87034,7 @@ idalahin
 idaren
 idares
 idarja
+i dashur
 idaver
 idaver.sherifi
 idcategoria
@@ -86854,6 +87112,7 @@ ideatorja
 ideimi
 ideimin
 ideimit
+Ideja
 idejizuar
 idekrijues
 idelae
@@ -87205,6 +87464,7 @@ idroponike
 idrriza
 idrzizi
 idshin
+i duhur
 idumei
 idumeja
 idumeon
@@ -87212,6 +87472,7 @@ idumeti
 idumeu
 iduskbn16a15s
 idyllwild
+i dytë
 iedalizmi
 iederaufbau
 iedersehen
@@ -87230,6 +87491,7 @@ iexojn
 iexuar
 iezraeli
 ifacca
+i famshëm
 ifeani
 ifigjenia
 ifigjenis
@@ -87262,6 +87524,7 @@ ifllaku
 iflliku
 iflliqeve
 iframe
+i frikësuar
 ifriti
 ifsu3sic6kw
 iftare
@@ -87294,6 +87557,7 @@ iftiqar
 iftiti
 iftohej
 iftoheshin
+i ftohtë
 iftojm
 ifugao
 ifutet
@@ -87308,6 +87572,7 @@ igdaliahut
 igenit
 iginovca
 igitbashinj
+i gjatë
 igjeum
 igjinale
 igjshme
@@ -87366,6 +87631,7 @@ iheana
 iheart
 iheartradio
 ihequr
+i hollë
 ihotov
 ihram8
 ihramin
@@ -87569,6 +87835,7 @@ ikulur
 ikunalukut
 ikunit
 ikunve
+i kuq
 ikurak
 ikurin
 ikurish
@@ -87598,10 +87865,12 @@ ilaqeve
 ilaqin
 ilaqit
 ilaramendi
+i largët
 ilaria
 ilarin
 ilaritet
 ilarramendi
+i lartë
 ilarychiara
 ilarychiara2
 ILASesma123
@@ -88012,6 +88281,7 @@ ilyrica
 ilyricum
 ilyris
 ilysniu
+i madh
 imadiate
 imagei
 imagem
@@ -88174,6 +88444,7 @@ imeilit
 imejll
 imelda
 imello
+i menjëhershëm
 imenjimin
 imenojt
 imentifikime
@@ -90018,6 +90289,7 @@ infuzione
 infuzioni
 infuzionin
 infuzionit
+i ngadalshëm
 ingalls
 inganno
 ingarden
@@ -90252,6 +90524,7 @@ initiatives
 inizot
 injacio
 injection
+i njëjtë
 injejtiautor
 injekcion
 injeksion
@@ -92783,6 +93056,8 @@ ipandalur
 ipanema
 ipardi
 iparin
+i pastër
+i pasur
 ipechi
 ipelagun
 iperformance
@@ -92825,6 +93100,7 @@ iplautus
 iplementuar
 ipllak
 ipllakut
+i plotë
 ipmagazin
 ipocalypse
 ipokalypse
@@ -92858,6 +93134,7 @@ iptidajie
 ipurlit
 ipyetur
 iqasit
+i qetë
 iqindia
 iqindija
 iracional
@@ -92949,6 +93226,7 @@ irfanit
 irfan.karaabo
 irfete
 irgest.sulejmani
+i ri
 irida.qoku
 iridaqoku
 irida.vata
@@ -93304,6 +93582,7 @@ ishhartografin
 ishhumoristit
 ishiguro
 ishiim
+ishin
 ishin1438
 ishinedhe
 ishinger
@@ -93355,6 +93634,7 @@ ishkryetari
 ishkryetarin
 ishkryetarit
 ishktyetarit
+i shkurtër
 ishlejen
 ishliceisti
 ishlojtar
@@ -93436,6 +93716,7 @@ ishstudentit
 ishsulmuesin
 ishtasve
 ishtci
+ishte
 ishte123
 ishte182
 ishtee
@@ -93483,6 +93764,7 @@ isidora
 isidore
 isidori
 isidorias
+i sigurt
 isihin
 isikava
 isimin
@@ -93953,6 +94235,7 @@ itihad
 itilaf
 itilafist
 itilafiste
+i tillë
 itinerar
 itinerare
 itineraret
@@ -93973,6 +94256,7 @@ itorja
 itosti
 itovojvodina
 itranslate
+i trashë
 itrembet
 itrovit
 itsehari
@@ -94076,14 +94360,18 @@ ivanushka
 ivanvoqi
 ivaova
 ivaylo
+i veçantë
 ivelit
+i vendosur
 iventarin
 iventarizimin
 ivenus
 iveprimeve
 iversen
 iverskut
+i vështirë
 ivestitor
+i vetëm
 ivezaj
 ivica_daciq_2ai
 ivicas
@@ -94140,6 +94428,7 @@ izdebeski
 izedin
 izedin.matmuja
 izelta
+i zënë
 izentin
 izeolin
 izernias
@@ -94697,6 +94986,7 @@ janarshtator
 janbian
 jancevski
 janciplepa
+janë
 janeiro
 janeiros
 janelas
@@ -94991,6 +95281,7 @@ jashtartistik
 jashtartistike
 jashtazi
 jashte
+jashtë
 jashteligjor
 jashteligjshem
 jashtem
@@ -95101,6 +95392,7 @@ javanit
 javash
 javashll
 javashvash
+javë
 javenska
 javeri
 javerin
@@ -95581,6 +95873,7 @@ jetbardh
 Jetbardh
 jetbardha
 Jetbardha
+jetë
 jetegjate
 jetëmbël
 Jetëmbël
@@ -95679,6 +95972,7 @@ jetojme
 jetojmn
 jetojn
 jetojne
+jetojnë
 jetokam
 jetona
 Jetona
@@ -97426,6 +97720,7 @@ juljeta
 julkajolli
 jullapong
 jullduz
+ju lutem
 jumala
 jumbun
 jumeirah
@@ -98232,6 +98527,7 @@ kafazi
 kafazin
 kafazit
 kafazuara
+kafe
 kafeana
 kafebnes
 kafegjolli
@@ -98334,6 +98630,7 @@ kafshe
 kafsheri
 kafshet
 kafsheve
+kafshëve
 kafshi
 kafshim
 kafshime
@@ -98804,6 +99101,7 @@ kaldera
 kalderave
 kalderon
 kaldes
+kalë
 kalebi
 kalebit
 kalebota
@@ -99225,6 +99523,545 @@ kallirit
 kallitollit
 kalliu
 kallje
+kaloj
+kalojnë
+kamion
+kampi
+kapitalit
+kapiten
+kapur
+karakter
+karrige
+kartë
+katër
+kati
+katran
+katrore
+këmbë
+këmbët
+kënaqur
+këndoj
+këpucëve
+kërcejnë
+kërko
+kërkoj
+kërkojnë
+kështu
+këto
+këtu
+kile
+kishte
+klasë
+kockave
+kodër
+koha
+kolona
+koloni
+komb
+Kompania
+konsiderojnë
+kontinenti
+kontrollit
+kontrolloj
+kopje
+kopsht
+kosto
+kostum
+krah
+krahut
+kravatë
+kreu
+krevat
+krijuar
+kripë
+kryer
+kryesore
+kthesë
+kuart
+kujdes
+kujtoj
+kulture
+kundër
+kundërta
+kuptim
+kurrë
+kusht
+kuti
+kuzhinier
+lady
+lakuriq nate
+largohen
+lehtësuar
+lejojnë
+lëkurës
+lëngshme
+le të
+letër
+lëvizje
+lexoj
+libri
+lidhur
+ligji
+lindje
+linjë
+liqeni
+lista
+litar
 Llambro
+lloj
+lojë
+lopë
+luajnë
+lufta
+luftë
+luginë
+lule
+lumë
+lumi
+lumturi
+lundrojnë
+mace
+Madhësia
+magji
+magnet
+makinë
+mali
+mark
+marr
+marrë
+marrëveshje
+material
+mbaj
+mbajë
+mbajnë
+mbajtur
+mbështetje
+mbledhë
+mblidhen
+mbrapa
+mbrëmje
+mbreti
+mbrojtur
+mbuluar
+mbushur
+me anë të
+melodi
+më mirë
+mendimi
+mendja
+mendoj
+mëngjes
+mënyrë
+më pak
+më parë
+me përjashtim të
+mesatare
+mesditë
+më shumë
+mesme
+mësoj
+mësojnë
+metalike
+më tepër
+Metoda
+me zë të lartë
+mijë
+milion
+milje
+minave
+minutë
+mirë
+mish
+misri
+Miss
+mjaft
+mjeku
+mjeshtër
+mjet
+model
+moderne
+molekulë
+mollë
+moment
+moon
+mori
+mosha
+motor
+motra
+mprehtë
+muaj
+mund
+mundshme
+muzikë
+naftës
+natën
+natyra
+natyrore
+ndarje
+ndërsa
+ndërtuar
+ndeshje
+ndjek
+ndjerë
+ndodhë
+ndodhin
+ndonëse
+ndonjë
+ndoshta
+ndritshme
+ndryshim
+ndryshoj
+ndryshojnë
+në masë
+në mesin e
+në mes të
+nënë
+nëntë
+nëse
+Në vend
+nevojshme
+ngarkuar
+ngjarje
+ngjashme
+ngjit
+ngjyra
+ngrihem
+ngrohjes
+ngrohtë
+nivel
+njëqind
+njerëz
+njerëzore
+njeri
+njësi
+njëzet
+njoftim
+notoj
+nuk do të
+numëror
+numri
+nxeh
+nxitim
+objekt
+oborr
+Oferta
+oksigjen
+operoj
+oqean
+organ
+organizoni
+origjinal
+paguajnë
+pajtohem
+palë
+pallto
+pambuku
+pamje
+pa pagesë
+papritur
+para
+paragraf
+paraqesin
+paratë
+parë
+parti
+pastaj
+pemë
+përbashkët
+përcaktuar
+përdorimi
+perëndim
+përfaqësojnë
+përfshijnë
+përfundimtar
+përgatisë
+përgjigje
+përgjigjen
+përgjithshme
+përhap
+periudha
+përmbaj
+përpara
+përpiqem
+përsëri
+përsëritje
+përshkruajnë
+përshtaten
+person
+përvojë
+përzierje
+pesë
+pesha
+peshk
+pije
+pikë
+pjesa
+pjesë
+plain
+planet
+Plani
+plotë
+poemë
+populloj
+port
+poshtë
+pozita
+praktikë
+pranishëm
+pranverë
+prapa
+prapashtesë
+prek
+prerë
+pres
+presin
+pretendim
+prind
+print
+probleme
+problemi
+procesi
+prodhojnë
+produkt
+pronë
+provë
+provoj
+punë
+pushim
+pyes veten
+pyetje
+pyjeve
+qafë
+qartë
 %q}b81LT"Z""$Z
+qelizë
+qelqi
+qendër
+qëndrim
+qëndroi
+qëndrojnë
+qenë
+që prej
+qesh
+qeverisur
+qiell
+qoshe
+qumësht
+qytet
+radio
+rajoni
+rasti
+real
+rekord
+rëndë
+rënie
+rërë
+Rezultati
+roll
+rrah
+rregull
+rrënjë
+rresht
+rreth
+rrethi
+rrezik
+rritet
+rrjedhë
+rrokje
+rrotë
+rrudhë
+rrugë
+ruani
+saktë
+së bashku
+segment
+seksion
+sezon
+shans
+shefi
+shekulli
+shell
+shembull
+shënim
+shenjë
+sheqer
+shërbejnë
+shes
+shifër
+shih
+shikojnë
+shikoni
+shkaku
+shkallë
+shkëmb
+shkenca
+shkoi
+shkoj
+shkollë
+shkop
+shkretëtirë
+shkroi
+shkruaj
+shkruar
+shkuar
+shndrit
+show
+shpatull
+shpejt
+shpejtë
+shpejtësi
+shpenzojnë
+shpesh
+shpresoj
+shqip
+shtatë
+shtëpi
+shtet
+shtrirje
+shtypi
+shtytje
+shumë
+shumës
+shumohen
+sidomos
+Sigurisht
+sigurojë
+sigurt
+simbol
+sipër
+sipërfaqe
+sistemi
+sjellë
+solli
+song
+stacion
+stop
+string
+studenti
+Studimi
+subjekt
+substancë
+sugjerojnë
+suksesi
+surprizë
+Tabela
+tabelë
+takohen
+tani
+të cilit
+të çojë
+të dy
+të fillojë
+të gjerë
+të gjithë
+të jetë e mundur
+të krahasuar
+tela
+të llogarisë
+të lumtur
+të matur
+temperatura
+të ndara
+të ndihmojë
+të ndjehen të
+tërë
+të reja
+tërheq
+term
+terren
+të rritur
+të shtoni
+tetë
+të veçantë
+thank
+thatë
+thellë
+them
+themelore
+thirrje
+thjeshtë
+thonë
+thyen
+tjetër
+toka
+tokë
+tokës
+tonë
+totale
+tregojnë
+tregtisë
+tregu
+trekëndësh
+tren
+tretë
+trillime
+trupi
+tuaj
+turmë
+tyre
+udhë
+udhëhequr
+udhëtim
+udhëtimit
+udhëzojë
+ulët
+unazë
+uroj
+u rrit
+ushqim
+ushtar
+ushtrim
+vajzë
+vala
+valle
+varet
+varfër
+varg
+varkë
+vazhdojnë
+vdekja
+vdekur
+vdes
+vëlla
+vend
+vendi
+vendos
+vendosë
+vendosen
+veprim
+verdhë
+verë
+veri
+vesh
+veshje
+vështirë
+vetë
+vetëm
+vezë
+vëzhguar
+view
+vizitë
+vjetër
+Vlera
+vogël
+vonë
+vrapoi
+vrasin
+vrimë
 /?y#do0p4n<`r
+yndyrë
+zakonshme
+zanore
+zbres
+zemërimi
+zemra
+zgjidhje
+zgjidhni
+zgjidhur
+zhurmë
+zhvilloj
+zile
+zjarri
+zogth
+zonë
+zyrë
