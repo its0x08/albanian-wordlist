@@ -1,7 +1,10 @@
+﻿000000000000000
 ﻿003Amorepuro
 0046762472771
 01031988
 012012
+02062001
+03011994
 04031968
 044627243
 05062460787Kk
@@ -22,100 +25,6 @@
 0692072300
 0692421522
 0693144479
-12345678
-vlora2019
-doren1996
-h&mhotel2019
-23456789
-lungomare123
-mauricio
-GrandHotel
-nacional2005
-vilanika20
-palazzine
-monte123
-19571957
-amantia1234
-000000000000000
-belvedere2018
-cadomaresh
-barlenci
-tevironi2018
-3a31972c
-diamondspa
-jungle2018
-55555555
-djepi2021
-nickelodeon123
-vlorasunset
-Sunset
-44445555
-ju20na15
-theboss2019
-piera2018
-aglon2013
-mazana18
-12345654321
-123456789
-123456u89
-nukediff
-ridalridal
-18273645
-26022004
-rei161616
-elionaderaj
-fioriramic7
-erinel2015
-Romeo123
-123454321
-19061969
-abc12345
-fatmirmarku
-alesjasuljoti
-adelajdos
-erik1971
-allushaj321
-19216802
-87654321
-08091972
-enea1993
-rias9988
-xheto1995
-12345678321
-familja1997
-sandri12
-23012000
-ABcom-Petriti
-19102017
-romeo123
-18273645
-Lavastovilie
-241212812
-19772005
-02062001
-33334444
-devis123
-pajtim123
-11112222
-kejdi2014
-2015alfbar
-37414908
-myrteza092004
-jetnor1977
-fatmir.123
-16111951
-luis2020
-gimokabar1802
-vipsvips2018
-10101010
-llotosport1
-etleva1234
-123456789
-albanhoxha
-elginelson
-54321kri
-palace2016
-03011994
 0693249475
 0694110299
 0698953454Natalia
@@ -123,10 +32,12 @@ palace2016
 06flashlight06BK
 06flashlight06BKK
 070707
+08091972
 09031994
 0i384x3Allah
 0rtodokse
 0tjetr
+10101010
 10bujari
 10fish
 10kilovolt
@@ -134,6 +45,7 @@ palace2016
 10minuta
 10october
 10prill
+11112222
 111student
 11ersek
 11Face11
@@ -146,13 +58,17 @@ palace2016
 11shkurt
 11shtator
 120606
+123454321
 123456
+12345654321
 1234566
 1234567
 12345677
 12345678
+12345678321
 123456789
 123456789Zr
+123456u89
 123493
 1234Spahiumari
 1236987456Eva
@@ -216,6 +132,7 @@ palace2016
 1605036495Ja
 160mmhg
 16101966
+16111951
 1614479
 16279048
 163133
@@ -238,6 +155,7 @@ palace2016
 180mmhg
 181166
 182198
+18273645
 18662630
 187128
 187643
@@ -249,11 +167,14 @@ palace2016
 18rpzuS1m
 18shkurt
 18TsWo2fn
+19061969
 19101982
+19102017
 19111981
 19145468378Elif
 19171992
 1920x1080
+19216802
 192354841966halİL
 1934po
 19351939
@@ -269,11 +190,13 @@ palace2016
 1944raport
 1944tep
 1945kund
+19571957
 1966faksimile
 1966sekretarit
 1969ne
 1974023099520671
 1975thekson
+19772005
 1980jan
 1980ta
 1981dhe
@@ -365,6 +288,7 @@ palace2016
 2013000079552065
 20131111
 20131114
+2015alfbar
 2015en
 20161030
 2016ne
@@ -406,12 +330,15 @@ palace2016
 226pogradec
 22sXpddPt
 23011970
+23012000
 23111974
 231180
 231256
+23456789
 23andme
 240220
 24101993Ep
+241212812
 241829Bh
 242131
 2443432e3Rudi
@@ -438,6 +365,7 @@ palace2016
 25matematik
 25oWUfBT7
 25universiteti
+26022004
 2driftingcoconuts
 3000000
 3000euro
@@ -465,6 +393,7 @@ palace2016
 3282020
 32fMMpSKo
 32pika
+33334444
 33AnuT9XC
 342000
 3420498192
@@ -485,6 +414,7 @@ palace2016
 368devoll
 369oP2xoS
 36x40cm
+37414908
 377b31
 37fw2R88n
 388734
@@ -494,6 +424,7 @@ palace2016
 396835
 3991bb
 39DuaR94G
+3a31972c
 3AfkBkN8B
 3bKUnrp4X
 3boshtit3
@@ -559,6 +490,7 @@ palace2016
 437665
 439010
 441987
+44445555
 44DYGCWCd
 44PcaB69a
 450000
@@ -636,10 +568,12 @@ palace2016
 52UWDyNb6
 5332c3Cg2
 537926
+54321kri
 54783903
 54ywvwio
 550000
 552064
+55555555
 5601077
 5601078
 585000
@@ -812,6 +746,7 @@ palace2016
 866507
 866UkBRHz
 86Bx1kPMT
+87654321
 8784334Zk
 8794331
 87kKPCXKn
@@ -1058,9 +993,11 @@ abbiati
 abbott
 abbottabad
 abbrescia
+abc12345
 ABC123ac
 abcese
 abcnews
+ABcom-Petriti
 abcons
 abcvolleycamp
 abdall
@@ -2113,6 +2050,7 @@ adelajda.hasani
 adelajdahasani
 adelajda.shima
 adelajde
+adelajdos
 adelajd.samurri
 adela.kalaja
 adela.pajova
@@ -3584,6 +3522,7 @@ aglomerasjon
 aglomerate
 aglomeratet
 aglomerimeve
+aglon2013
 aglutinim
 agnelli
 agnellit
@@ -5629,6 +5568,7 @@ albanfoci
 albangjinoshi
 albanhasaj
 alban.hoxha
+albanhoxha
 albani
 albania
 Albania01
@@ -6223,6 +6163,7 @@ alesia.doci
 alesia.fingo
 alesio
 alesitimia
+alesjasuljoti
 aleskandrov
 alesksov
 alesov
@@ -6944,6 +6885,7 @@ allulli
 allume
 alluni
 allure
+allushaj321
 allushi
 allushin
 allview
@@ -7507,6 +7449,7 @@ Amanta
 amantayeva
 amanti
 amantia
+amantia1234
 amantia.kullolli
 Amantialenti1512
 amantian
@@ -20875,6 +20818,7 @@ barkzbrazur
 barleci
 barlecin
 barlecit
+barlenci
 barlet
 Barlet
 barleta
@@ -23164,6 +23108,7 @@ belushka
 beluskoni
 beluxhistan
 belvedere
+belvedere2018
 belvederes
 belvederja
 belxhik
@@ -32114,6 +32059,7 @@ cadermatori
 cadets
 cadillac
 cadogan
+cadomaresh
 cadore
 cadrat
 cadrave
@@ -42650,6 +42596,7 @@ devious
 devipapakostandini
 deviqit
 devirateve
+devis123
 devishit
 devisive
 deviues
@@ -43842,6 +43789,7 @@ DiamilaLeka9696
 diaminds
 diamond
 diamonds
+diamondspa
 diamteralisht
 DIANADEA
 dianae
@@ -46819,6 +46767,7 @@ djepen
 djepes
 djepet
 djepeve
+djepi2021
 djepin
 djepit
 djepja
@@ -48058,6 +48007,7 @@ dorehqen
 doreje
 dorela
 dorelli
+doren1996
 doresa
 doresh
 doreshkrim
@@ -54194,6 +54144,7 @@ elfsborgu
 elganc
 elgantonxhura
 elgersma
+elginelson
 elgrik
 elhaid
 elhaida
@@ -54343,6 +54294,7 @@ elinor
 elinorprenja
 eliodor
 eliona
+elionaderaj
 elionakulluribimbashi
 elios.dollani
 eliosdollani
@@ -55575,6 +55527,7 @@ Enduptogether2020
 endura
 enduro
 enduser
+enea1993
 Enea1996
 eneaB123
 eneaballa
@@ -56879,6 +56832,7 @@ erigerta
 erigerti
 erigest
 erijon
+erik1971
 Erika2019
 erika.demiraj
 erika.kica
@@ -56911,6 +56865,7 @@ erinda.kamina
 erindi
 erindin
 erindit
+erinel2015
 erinerungen
 erinit
 erinive
@@ -58165,6 +58120,7 @@ etkovi
 etleda
 etleva
 Etleva
+etleva1234
 etleva.asllanaj
 etleva.asllanaj1
 etleva.bakalli
@@ -60511,6 +60467,7 @@ familisht
 familit
 familj
 familja
+familja1997
 familjahoxha
 familjar
 familjara
@@ -61492,6 +61449,7 @@ fatmesme
 fatmin
 fatmir
 Fatmir
+fatmir.123
 fatmira
 Fatmira
 fatmiraaliaj
@@ -61507,6 +61465,7 @@ fatmiri
 fatmirin
 fatmirit
 fatmirja
+fatmirmarku
 fatmirmeta
 fatmirmyrtja
 fatmirnanaj
@@ -64140,6 +64099,7 @@ fiores
 fiorilla
 fiorini
 fiorintash
+fioriramic7
 fiorma
 fiormosur
 fiornaneli
@@ -72368,6 +72328,7 @@ gimnie
 gimnih
 gimnis
 gimnit
+gimokabar1802
 gimolli
 gimore
 gimtar
@@ -76911,6 +76872,7 @@ grandeja
 grandes
 grandet
 grandeve
+GrandHotel
 grandi
 grandiloquence
 grandin
@@ -84691,6 +84653,7 @@ hlumca
 hmbjes
 hmedia
 hmejnit
+h&mhotel2019
 hmitar
 hmmmmm
 HMU5eYxDA
@@ -95956,6 +95919,7 @@ jetmirpergjegjaj
 jetmondstani
 jetnor
 Jetnor
+jetnor1977
 jetnore
 Jetnore
 jetnorjaubelli
@@ -97499,6 +97463,7 @@ jsugut
 jtifutbollist
 jtjerave
 jtohesha
+ju20na15
 juajin
 jualianne
 juana.hyka
@@ -97754,6 +97719,7 @@ jungian
 jungiane
 jungjatjeta
 jungle
+jungle2018
 junglindje
 junglindore
 junguirth
@@ -99537,6 +99503,7 @@ katër
 kati
 katran
 katrore
+kejdi2014
 këmbë
 këmbët
 kënaqur
@@ -99591,6 +99558,7 @@ kuzhinier
 lady
 lakuriq nate
 largohen
+Lavastovilie
 lehtësuar
 lejojnë
 lëkurës
@@ -99609,17 +99577,20 @@ lista
 litar
 Llambro
 lloj
+llotosport1
 lojë
 lopë
 luajnë
 lufta
 luftë
 luginë
+luis2020
 lule
 lumë
 lumi
 lumturi
 lundrojnë
+lungomare123
 mace
 Madhësia
 magji
@@ -99631,6 +99602,8 @@ marr
 marrë
 marrëveshje
 material
+mauricio
+mazana18
 mbaj
 mbajë
 mbajnë
@@ -99683,6 +99656,7 @@ moderne
 molekulë
 mollë
 moment
+monte123
 moon
 mori
 mosha
@@ -99693,6 +99667,8 @@ muaj
 mund
 mundshme
 muzikë
+myrteza092004
+nacional2005
 naftës
 natën
 natyra
@@ -99728,6 +99704,7 @@ ngjyra
 ngrihem
 ngrohjes
 ngrohtë
+nickelodeon123
 nivel
 njëqind
 njerëz
@@ -99738,6 +99715,7 @@ njëzet
 njoftim
 notoj
 nuk do të
+nukediff
 numëror
 numri
 nxeh
@@ -99752,7 +99730,10 @@ organ
 organizoni
 origjinal
 paguajnë
+pajtim123
 pajtohem
+palace2016
+palazzine
 palë
 pallto
 pambuku
@@ -99793,6 +99774,7 @@ përzierje
 pesë
 pesha
 peshk
+piera2018
 pije
 pikë
 pjesa
@@ -99852,12 +99834,17 @@ radio
 rajoni
 rasti
 real
+rei161616
 rekord
 rëndë
 rënie
 rërë
 Rezultati
+rias9988
+ridalridal
 roll
+romeo123
+Romeo123
 rrah
 rregull
 rrënjë
@@ -99873,6 +99860,7 @@ rrudhë
 rrugë
 ruani
 saktë
+sandri12
 së bashku
 segment
 seksion
@@ -99943,6 +99931,7 @@ subjekt
 substancë
 sugjerojnë
 suksesi
+Sunset
 surprizë
 Tabela
 tabelë
@@ -99973,8 +99962,10 @@ të rritur
 të shtoni
 tetë
 të veçantë
+tevironi2018
 thank
 thatë
+theboss2019
 thellë
 them
 themelore
@@ -100040,14 +100031,19 @@ vetëm
 vezë
 vëzhguar
 view
+vilanika20
+vipsvips2018
 vizitë
 vjetër
 Vlera
+vlora2019
+vlorasunset
 vogël
 vonë
 vrapoi
 vrasin
 vrimë
+xheto1995
 /?y#do0p4n<`r
 yndyrë
 zakonshme
