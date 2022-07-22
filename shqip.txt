@@ -197,6 +197,7 @@
 1944tep
 1945kund
 19571957
+1957soni
 1966faksimile
 1966sekretarit
 1969ne
@@ -279,6 +280,7 @@
 2015alfbar
 2015en
 20161030
+20162016
 2016ne
 20170202
 20170310
@@ -492,6 +494,7 @@
 626c712b2fe3
 650442
 65f4P2cbd
+66666666
 667952
 6709488
 67676767
@@ -1405,6 +1408,7 @@ abisin
 abisini
 abisinin
 abisinis
+abissnetgentamira201420152016
 abisso
 abitatit
 abitur
@@ -10952,6 +10956,7 @@ alcide
 alcindoro
 alcirt
 alcohol
+alcora2017
 alcorc
 alcorcon
 alcott
@@ -13216,6 +13221,7 @@ amoreu
 amoreun
 amorfe
 amorfsh
+amorino2016
 amoris
 amorit
 amoritan
@@ -13874,6 +13880,7 @@ andgentlemen
 andhroniqi
 andiamo
 andiamoandiamo
+andiapartament
 andiberaj
 andibeta
 andibibaj
@@ -18922,6 +18929,7 @@ armirose22
 armiross123
 ARMIROTTO
 armirov88ka
+armirteqja
 armiruar
 armisa
 armitage
@@ -23815,6 +23823,7 @@ australis
 australise
 austri
 austria
+austria2017
 austriak
 austriake
 austriaken
@@ -44046,6 +44055,7 @@ counterpunch
 counting
 countries
 country
+country15
 countryman
 country_us_58ffb4b9e4b0fb8e503879eb
 county
@@ -44168,6 +44178,7 @@ cremona
 cremonas
 cremoneze
 creolizzare
+crepacrepa2019
 crepeau
 crescendo
 crescent
@@ -54179,6 +54190,7 @@ diverzante
 diverzitetit
 diviabh
 divicionin
+divicom123
 divide
 dividend
 dividenda
@@ -59140,6 +59152,7 @@ edheuniversitetin
 edheyjet
 edhjes
 edhtjeje
+edi12345
 edibinjaket
 edibushi
 ediciane
@@ -64503,6 +64516,7 @@ erdhet
 erdheve
 erdhi
 erdhibidosherifi
+Erdhivera.!!
 erdhja
 erdhjeve
 erdhka
@@ -71033,6 +71047,7 @@ FG4cBPkzx
 FgeE3HS6m
 fhatrave
 FhDp7EPeF
+fhf12345678
 fhillips
 fhpAonE5b
 fhstra
@@ -71950,6 +71965,7 @@ filxhanet
 filxhani
 filxhanin
 filxhanit
+fim42315
 fimathu
 fimber
 fimesh
@@ -85019,6 +85035,7 @@ granatue
 granazhdoli
 granda
 grandautocenter
+grandcoffe
 grande
 grandeja
 grandes
@@ -89771,6 +89788,7 @@ hauret
 haureve
 haurin
 haurit
+hauseofarts
 hausmann
 hausmman
 haussmann
@@ -108349,6 +108367,7 @@ kravatë
 kreu
 krevat
 krijuar
+kriko123
 kripë
 kristi1234
 KRISTI2007
@@ -109311,6 +109330,7 @@ mace
 Madhësia
 magji
 magnet
+makeyourmood
 makinë
 mali
 marjoresulaj123454321
@@ -109318,6 +109338,7 @@ mark
 marr
 marrë
 marrëveshje
+marvi2010
 material
 mauricio
 maxlloto1
@@ -109356,6 +109377,7 @@ metalike
 më tepër
 Metoda
 me zë të lartë
+mezzo2018
 mijë
 milion
 milje
@@ -109507,6 +109529,7 @@ mirelavalter
 mirelaviorica
 mirelaxf8l8
 mirelayo
+mirsevini
 mish
 misri
 Miss
@@ -109527,6 +109550,7 @@ motor
 motra
 mprehtë
 muaj
+mulliri2019
 mund
 mundshme
 muzikë
@@ -109554,9 +109578,11 @@ ndryshojnë
 në masë
 në mesin e
 në mes të
+nendetsja105
 nënë
 nëntë
 nëse
+nestikosta
 Në vend
 nevojshme
 ngarkuar
@@ -109656,6 +109682,8 @@ oslince4
 oslinux57
 oslir
 oslizgbal
+oslo2019
+oslooslo
 paguajnë
 pajtim123
 pajtohem
@@ -109787,6 +109815,7 @@ qeremuhu
 qesh
 qeverisur
 qiell
+qkulturore1
 qoshe
 qumësht
 qytet
@@ -112966,6 +112995,7 @@ rrotë
 rrudhë
 rrugë
 ruani
+rubi2016
 runajabe
 runajeka
 runajhje
@@ -112974,6 +113004,7 @@ sabatel vlore062
 saktë
 sandri12
 së bashku
+secretgarden11
 segment
 seksion
 sezon
@@ -113143,9 +113174,11 @@ sugjerojnë
 suksesi
 Sunset
 surprizë
+syri2000
 Tabela
 tabelë
 takohen
+tamel123
 tani
 të cilit
 të çojë
@@ -113216,6 +113249,7 @@ toka
 tokë
 tokës
 tonë
+topsnack2016
 totale
 tregojnë
 tregtisë
@@ -113224,6 +113258,7 @@ trekëndësh
 tren
 tretë
 trillime
+tringtring
 trupi
 tuaj
 turmë
@@ -113236,6 +113271,7 @@ udhëzojë
 ulët
 unazë
 uranbesa
+urban2019
 uroj
 u rrit
 ushqim
@@ -113284,6 +113320,7 @@ vrapoi
 vrasin
 vrimë
 vrnezi2018
+west2016
 xheto1995
 xhuljana
 xhuljani
@@ -113291,6 +113328,7 @@ xhuljano03081993
 xhuljareli
 ﻿yhggfhhg
 yndyrë
+yogurteria2
 zakonshme
 zamir
 Zamir
