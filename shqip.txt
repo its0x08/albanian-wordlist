@@ -308,6 +308,7 @@
 2175000
 2177731
 21988w
+21dhjetori
 21janarin
 21milion
 21october
@@ -355,6 +356,7 @@
 25universiteti
 26022004
 27122013
+28021970BB
 29071983
 2driftingcoconuts
 3000000
@@ -102148,6 +102150,7 @@ ishtes
 ishtestudiuesi
 ishtetit
 ishtiferit
+ishtiishti2018
 ishtin
 ishtira
 ishtit
@@ -113135,6 +113138,7 @@ shqiptarjom
 shqiptary.mak.18
 shtatë
 shtëpi
+shtepia21
 shtet
 shtrirje
 shtypi
@@ -113322,6 +113326,7 @@ vrimë
 vrnezi2018
 west2016
 xheto1995
+xhuli12345678
 xhuljana
 xhuljani
 xhuljano03081993
@@ -113385,6 +113390,7 @@ zamira1987
 zamira1989
 zamira1990
 zamira1990_CHP_
+zamira1999
 zamira20
 zamira2002danny2000
 zamira2006
