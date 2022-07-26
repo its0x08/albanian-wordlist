@@ -6,6 +6,7 @@
 02062001
 02091981
 03011994
+03800620
 04031968
 044627243
 045530663
@@ -27998,6 +27999,7 @@ bariloviq
 barinas
 barinasit
 barine
+barini123
 barinj
 barinjsh
 barinjt
@@ -37342,6 +37344,7 @@ brinat
 brinave
 brincibacja
 brindisi
+brindisi78
 brindisin
 brindisit
 brindixit
@@ -66822,6 +66825,7 @@ euroleague
 eurolig
 eurolindi
 eurolloto
+eurolloto4321
 eurolona
 eurolotosh
 euromania
@@ -109422,6 +109426,7 @@ mënyrë
 më pak
 më parë
 me përjashtim të
+meri0981
 mesatare
 mesditë
 më shumë
@@ -109668,6 +109673,7 @@ numëror
 numri
 nxeh
 nxitim
+oaz12345
 objekt
 oborr
 Oferta
@@ -113064,6 +113070,7 @@ runajhje
 runway35
 sabatel_777
 sabatel vlore062
+Sajdi2019
 saktë
 samoelo123
 sandri12
@@ -113229,7 +113236,9 @@ sonilame
 sonilan
 soniland
 stacion
+stay1234
 stop
+stopaids
 string
 studenti
 Studimi
@@ -113377,6 +113386,7 @@ vezë
 vëzhguar
 view
 vilanika20
+vins2019
 vipsvips2018
 vironi2020
 visi1234
