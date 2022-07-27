@@ -1091,6 +1091,7 @@ abatit
 abatitore
 abatte
 abazaj
+Abazaj
 abazaj2016
 abazajn
 abazajt
@@ -2185,6 +2186,7 @@ adelheid
 adelian
 adelin
 adelina
+Adelina
 adelinadarzeza
 adelinave
 adeline
@@ -4318,6 +4320,7 @@ ahmetgjekaj
 ahmet.gokoz
 ahmethabili
 ahmeti
+Ahmeti
 Ahmeti1405
 ahmetik
 ahmetin
@@ -9245,6 +9248,7 @@ alberobelon
 alberobelos
 albers
 albert
+Albert
 alberta
 alberta.gjini
 albertagjini
@@ -10973,6 +10977,7 @@ alcorc
 alcorcon
 alcott
 alcudias
+Alda
 Alda123456
 alda.armadhi
 aldaarmadhi
@@ -11215,6 +11220,7 @@ alesandros
 alesano
 alesha
 alesia
+Alesia
 ALESIa1234
 Alesiabeder95
 alesia.doci
@@ -11809,6 +11815,7 @@ allakauboj
 allalla
 allaman
 allamani
+Allamani
 Allamani12
 allambres
 allambrez
@@ -12220,6 +12227,7 @@ altiero
 altima
 altimari
 altimarit
+Altin
 altina
 Altina
 altina.banaj
@@ -12571,6 +12579,7 @@ Amarkruja1977
 amarok
 amaroldi.shkullaku
 amarrok
+Amarsilda
 amartey
 amarucai
 amarylla
@@ -12895,6 +12904,7 @@ amedeo
 ameerican
 ameerikan
 ameika
+Amela
 amela.shehi
 amelashehi
 amelia
@@ -13893,6 +13903,7 @@ andeve
 andeziti
 andgentlemen
 andhroniqi
+Andi
 andiamo
 andiamoandiamo
 andiapartament
@@ -14388,6 +14399,7 @@ angjel
 angjela
 angjela.hyka
 angjela.hyka1
+Angjele
 angjeli
 angjelika
 angjelikash
@@ -17459,6 +17471,7 @@ arapajt
 arapefendi
 arapet
 arapeve
+Arapi
 arapin
 arapit
 arapka
@@ -17745,6 +17758,7 @@ ardaqet
 ardena
 ardenic
 ardenica
+Ardenis
 ardennes
 ardeno
 ardenon
@@ -17844,6 +17858,7 @@ ardhurk
 ardhurkoha
 ardhurve
 ardhushi
+Ardi
 ardian
 Ardian
 ardiana
@@ -17875,6 +17890,7 @@ ardi.qordja
 ardisbiba
 ArdisBiba21
 ardiselimi
+Ardit
 Ardit1006
 ardita
 ardita.alsula
@@ -18428,6 +18444,7 @@ arizona
 arizonas
 arjabzali
 arjana
+Arjana
 Arjana11
 arjana.miha
 arjana.miha1
@@ -18441,6 +18458,7 @@ arjani
 arjanikujtimit
 arjanin
 arjanit
+Arjanit
 arjanitoka
 arjankanani
 arjankica
@@ -18859,6 +18877,7 @@ armchair
 armë
 armeje
 armela
+Armela
 armela.ago
 armela.likollari
 armela.likollari1
@@ -20752,6 +20771,7 @@ ARTJOLACANIii123
 artjola.xhelesi
 artjom
 artjon
+Artjon
 artlond
 artmir
 Artmir
@@ -21495,6 +21515,7 @@ asllanajn
 asllanajt
 asllancenaliaj
 asllani
+Asllani
 asllanin
 asllanit
 asllanitradita
@@ -26071,6 +26092,7 @@ bakuninit
 bakuroth
 bakushi
 bakuth
+Bala
 balaami
 balaamin
 balaamit
@@ -27873,6 +27895,7 @@ bardhoshes
 bardhoshet
 bardhoshfeneri
 bardhoshi
+Bardhoshi
 bardhoshin
 bardhoshit
 bardhoshja
@@ -30444,6 +30467,7 @@ bejing
 bejini
 bejker
 bejkerin
+Bejko
 bejkoja
 bejkon
 bejkos
@@ -31849,6 +31873,7 @@ beshirli
 beshisht
 beshkoviq
 beshku
+Beshku
 beshta
 beshtica
 beshtire
@@ -32568,6 +32593,7 @@ biblotekes
 bibolli
 bicajn
 bicajt
+Bicaku
 bicalko
 biceps
 bicevski
@@ -34803,6 +34829,7 @@ bobovac
 bobrati
 bobruisk
 bobvan
+Bocaj
 Bocaj2016
 bocajt
 bocari
@@ -37482,6 +37509,7 @@ brixhi
 brixhid
 brixhild
 brixhilda
+Brixhilda
 brixhit
 brixhman
 brixton
@@ -38107,6 +38135,7 @@ buchberger
 buchberger12
 buchholz
 buchloh
+Buci
 bucimas
 bucinca
 buciumeni
@@ -38719,6 +38748,7 @@ bulkthave
 bulkthet
 bulkthi
 bulkthit
+Bulku
 bulkun
 bulkut
 bullacan
@@ -39970,6 +40000,7 @@ cajupit
 cakajn
 cakajt
 cakani
+Cake
 Cakiciyasin1
 cakile
 cakiqi
@@ -40428,6 +40459,7 @@ capullari
 caqeve
 caquetensis
 caquot
+Cara
 carabella
 carabins
 carabreg
@@ -42699,6 +42731,7 @@ cipusa
 cipusat
 cipusave
 cipusi
+Ciraku
 circadiane
 circeja
 circenses
@@ -43198,6 +43231,7 @@ cockpit
 cocktail
 coctail
 cocteau
+Codari
 codeluppi
 coderre
 codeve
@@ -44735,6 +44769,7 @@ dabulla
 dabulleve
 daccin
 dachau
+Daci
 dacian
 daciarum
 dacias
@@ -45008,6 +45043,7 @@ Dalina
 dalini
 daliniane
 dalipaj
+Dalipaj
 dalipajt
 dalipajve
 dalip.gurra
@@ -49635,6 +49671,7 @@ dervishe
 dervishes
 dervisheviq
 dervishi
+Dervishi
 dervishiane
 dervishin
 dervishit
@@ -49676,6 +49713,7 @@ desantuan
 desantuar
 desantues
 desantuesve
+Desara
 desara.dushi
 desara.kuka
 desara.kuka1
@@ -50485,6 +50523,7 @@ devious
 devipapakostandini
 deviqit
 devirateve
+Devis
 devis123
 devishit
 devisive
@@ -50703,6 +50742,7 @@ DgEya6fh3
 dgFDoh2BT
 dhabin
 dhabit
+Dhafni
 dhajat
 dhajmt
 dhales
@@ -50714,6 +50754,7 @@ dhamasta
 dhamballa
 dhamballat
 dhambve
+Dhami
 dhamiano
 dhamon
 dhamos
@@ -53205,6 +53246,7 @@ disclosed
 discoclub
 discomuzike
 discount
+Discount
 discount17
 discover
 discovery
@@ -55129,6 +55171,7 @@ doklea
 dokleat
 doklen
 dokles
+Doko
 dokoli
 dokollari
 dokotorojn
@@ -55972,6 +56015,7 @@ doriza
 Doriza
 dorjan
 dorjana
+Dorjana
 dorjanatoska
 dorjanbida
 dorjandemetja
@@ -59304,6 +59348,7 @@ edivin
 edjola
 edlencaca
 edlidzes
+Edlin
 edlira
 Edlira
 edliramali
@@ -59680,6 +59725,7 @@ efroni
 efronit
 efrosina
 eftali
+Eftali
 efterpi
 efterpit
 efthim
@@ -59796,6 +59842,7 @@ eglendisej
 eglendisesha
 eglendisje
 eglenxhe
+Egli
 Egli0683654345
 eglimita
 egli.muka
@@ -60075,6 +60122,7 @@ eklestone
 ekletorale
 ekleziasti
 ekleziastike
+Eklid
 eklidfekollari
 ekliku
 eklima.shehaj
@@ -61629,6 +61677,7 @@ elbuna
 Elbuna
 elchen
 elches
+Elda
 eldaahu
 eldadi
 eldena.balla
@@ -62203,6 +62252,7 @@ eliniqi
 elinit
 elinor
 elinorprenja
+Elio
 eliodor
 eliona
 elionaderaj
@@ -62450,6 +62500,7 @@ elpais
 elpidio
 elpiniqi
 elrave
+Elsa
 elsacapo
 elsaida
 elsajed
@@ -62647,6 +62698,7 @@ emanoil
 emanolit
 emanuar
 emanuel
+Emanuel
 emanuela
 emanuela.myftari
 emanuel.culi
@@ -62925,6 +62977,7 @@ emiljanazuni
 emiljankocia
 emiljanlici
 emiljano
+Emiljano
 emiljanokodra
 emiljanos
 emiljanotroka
@@ -63253,6 +63306,7 @@ emusines
 emutfXUk5
 En123456
 En3s2001
+Ena
 enable
 enabling
 enacted
@@ -63665,6 +63719,7 @@ engrit
 engstroem
 engujuar
 engushellimit
+Eni
 eni.ajdini
 eniana
 Eniana
@@ -63720,6 +63775,7 @@ enjtura
 enjturat
 enkalvat
 enkejda
+Enkel
 Enkel12345
 enkela
 Enkela
@@ -64064,6 +64120,7 @@ environnement
 envision
 envner
 enxhellos
+Enxhi
 enxhi.cota
 enxhi.gjoni
 enxhi.hasmeta
@@ -64447,6 +64504,7 @@ eraguar
 era.kapaj
 erakat
 erakli
+Erald
 eralda
 eraldamethasani
 eralda.vata
@@ -64771,6 +64829,7 @@ erilda.spahiu
 erilda.sulika
 erildasulika
 erimtare
+Erina
 erina.cupi
 erina.haxhiu
 erinahaxhiu
@@ -64979,6 +65038,7 @@ ermionit
 ermion.jaho
 ermionjaho
 Ermionjaho1
+Ermir
 Ermir2019
 ermira
 Ermira
@@ -65115,6 +65175,7 @@ errtta
 errupsionit
 ersa.cyrbja
 ersatz
+Erseda
 erseka
 ersekar
 ersekari
@@ -65127,6 +65188,7 @@ Ershel
 ershela
 Ershela
 ershelit
+Ershiela
 ershte
 ersiada
 ersida
@@ -67040,6 +67102,7 @@ eutopit
 eutrofikimit
 euxhenio
 euzebi
+Eva
 eva.demrozi
 evadim
 evadimi
@@ -70168,6 +70231,7 @@ fejzi.shaholli
 fejziu
 fejziun
 fejziut
+Fejzo
 fejzoja
 fejzollari
 fejzollarit
@@ -70193,6 +70257,7 @@ fekalet
 fekaleve
 fekenit
 fekoja
+Fekollari
 fekondim
 fekondimi
 fekondimin
@@ -75336,6 +75401,7 @@ francese
 francesi
 francesk
 franceska
+Franceska
 Franceska123
 Franceska23
 franceska.brahimaj
@@ -79473,6 +79539,7 @@ gefles
 geforce
 gefunden
 GEFXSoFPm
+Gega
 gegajt
 gegaoil
 gegevend
@@ -79626,6 +79693,7 @@ generalquestion
 generation
 generationenromane
 generations
+Generator
 genere
 generes
 generis
@@ -79962,6 +80030,7 @@ geringu
 geringun
 geringut
 gerinit
+Gerion
 gerisen
 gerizim
 gerjaj
@@ -80206,6 +80275,7 @@ gezalis
 gezeri
 gezerit
 gezetar
+Gezim
 gëzim
 Gëzim
 gezimbali
@@ -82702,6 +82772,7 @@ gjojsha
 gjojshe
 gjojshim
 gjojtur
+Gjoka
 gjokaconstruction
 gjokadonald
 gjokaj
@@ -82774,6 +82845,7 @@ gjomarkut
 gjomeka
 gjometricitetin
 gjonaj
+Gjonaj
 gjonajn
 gjonajt
 gjonajve
@@ -83660,6 +83732,7 @@ gledam
 gledian
 gledion
 gledis
+Gledis
 gledis.kurti
 gledisrapollari
 gledis.ruda
@@ -85519,6 +85592,7 @@ greshnic
 greshnica
 gresle
 gresso
+Greta
 greta.asllani
 greta.asllani1
 gretabeqiri
@@ -87979,6 +88053,7 @@ halilajt
 halil.buzkan
 halilhoxhiq
 halili
+Halili
 halil.ibrahim.galatanu
 halil.ibrahim.ozer
 halil.ibrahim.yetis
@@ -88846,6 +88921,7 @@ harams
 harani
 haranin
 haranit
+Harapaj
 harapash
 harapi
 harapin
@@ -89495,6 +89571,7 @@ harxhuesi
 harxhuesit
 harxhuesve
 haryan
+Hasa
 hasadit
 hasalami
 hasallari
@@ -90271,6 +90348,7 @@ hegeliane
 hegelin
 hegelit
 hegels
+Heges
 heghin
 hegjemon
 hegjemone
@@ -90866,6 +90944,7 @@ hënore
 Hënore
 hënplota
 Hënplota
+Henri
 henri2
 henriballanca
 henrich
@@ -90875,6 +90954,7 @@ henrieta
 henrietta
 henrijareci
 henrik
+Henrik
 henrikas
 henrikes
 henriketa
@@ -93816,6 +93896,7 @@ howardit
 however
 howman
 hoxchaj
+Hoxha
 hoxhagan
 hoxhaj
 hoxhajn
@@ -94768,6 +94849,7 @@ hydroxycinnamic
 hyenckes
 hygeia
 hygerta
+Hygerta
 hygerta.basha
 hygerta.basha1
 hygerta.basha2
@@ -94954,6 +95036,7 @@ hysgjokajt
 hysgjokajve
 hyshmeri
 hyshmerit
+Hysi
 hysjat
 hyskajt
 hyskes
@@ -95115,6 +95198,7 @@ iblisi
 iblisit
 iborra
 ibozuci
+Ibra
 Ibra2020
 ibracadabra
 ibragimi
@@ -95147,6 +95231,7 @@ ibraimin
 ibraimit
 ibraimov
 ibraimovski
+Ibraj
 ibrajt
 ibrakadabra
 ibraliu
@@ -96061,6 +96146,7 @@ ilazni
 ilbasan
 ilbledhja
 ilbrat
+Ilda
 ILDA2eLA
 ildacarcani
 ilda.cibuku
@@ -96121,6 +96207,7 @@ iliake
 iliamilloshi
 iliana
 iliane
+Iliaz
 iliazi
 iliazit
 iliazshuli
@@ -96171,6 +96258,7 @@ ilinska
 ilionis
 ilionit
 ilioski
+Ilir
 ilir_2006
 iliragalliu
 ilirasit
@@ -98844,6 +98932,7 @@ ingredientin
 ingres
 ingresit
 ingrid
+Ingrid
 ingriddomi
 ingride
 ingridi
@@ -100791,6 +100880,7 @@ intersave
 interseks
 intersesin
 intership
+Intership
 intershipe
 intershipeve
 intershipi
@@ -102272,6 +102362,7 @@ islamabadin
 islamabadit
 islamaili
 islamaj
+Islamaj
 islamajt
 islamcuni
 islame
@@ -103809,6 +103900,7 @@ jasleen
 jasmila
 jasmin
 jasmina
+Jasmina
 jasmina.deliu
 jasmine
 jasmin.jusufi
@@ -104686,6 +104778,7 @@ joalkolike
 joalkoolike
 joamerikane
 joamtare
+Joana
 Joana123
 joananit
 joana.spaho
@@ -105306,6 +105399,7 @@ Joniar
 joniara
 Joniara
 jonida
+Jonida
 Jonida1234
 jonida.bicaku
 jonida.bicaku1
@@ -106132,6 +106226,7 @@ jukomtrullupakaa
 juksel
 juleen
 Juli15301613
+Julia
 juliadone
 juliakrasniqi
 julian
@@ -106511,6 +106606,7 @@ juvnetusit
 juxhers
 juxhin
 juxhini
+Juxhino
 Jw10geri
 Jw10gerincp
 jylinistria
@@ -107272,6 +107368,7 @@ kajnarxhes
 kajnarxhis
 kajner
 kajnerit
+Kajno
 kajnos
 kajoja
 kajolli
@@ -107995,7 +108092,9 @@ karakter
 kari123fege
 karrige
 kartë
+Kastriot
 katër
+Katerina
 kati
 katran
 katrore
@@ -108010,6 +108109,7 @@ kërko
 kërkoj
 kërkojnë
 kështu
+Keta
 ketieminino
 këto
 këtu
@@ -108357,6 +108457,9 @@ klejdi1234
 klejdi85
 klejdilani1992
 klejdp1231
+Klenis
+Klevis
+Klientit
 klodi
 klodi-0682897619
 klodi123
@@ -108403,6 +108506,7 @@ kolona
 koloni
 komb
 Kompania
+Konomi
 konsiderojnë
 kontinenti
 kontrollit
@@ -108410,6 +108514,7 @@ kontrolloj
 kopje
 kopsht
 korrent123456789
+Kosta
 kosto
 kostum
 krah
@@ -108421,21 +108526,28 @@ krevat
 krijuar
 kriko123
 kripë
+Krisela
 kristi1234
 KRISTI2007
 kristoni
+Kruja
 kryer
 kryesore
 kthesë
 kuart
+Kuculi
 kujdes
+Kujdesi
 Kujtim Elezi
 kujtoj
+Kulla
 kulture
+Kumanova
 kundër
 kundërta
 kuptim
 kurrë
+Kurtaj
 kusht
 kushtrim1
 kuti
@@ -108443,8 +108555,12 @@ kuzhinier
 laberia1
 lady
 lakuriq nate
+Lal
 lame2018
 largohen
+Laska
+Latifi
+Laureta
 Lavastovilie
 lehtësuar
 lejojnë
@@ -108460,8 +108576,11 @@ ligji
 lindje
 linjë
 liqeni
+Lisana
 lista
+Lit
 litar
+Livia
 Llambro
 llano
 Llano
@@ -109377,7 +109496,9 @@ lufta
 luftë
 luginë
 luis2020
+Lukas
 lule
+Luli
 lumë
 lumi
 lumturi
@@ -109385,19 +109506,28 @@ lundrojnë
 lungomare123
 lushnjadhenje
 mace
+Maci
+Mada
 Madhësia
 magji
 magnet
 makeyourmood
 makinë
 mali
+Manga
+Manga2019
 mantro2015
+Marcela
+Mariglen
 marjoresulaj123454321
 mark
 markelioan26maj
+Marketing
+marketing2016
 marr
 marrë
 marrëveshje
+Mars2019
 marvi2010
 material
 mauricio
@@ -109417,8 +109547,12 @@ mbrojtur
 mbuluar
 mbushur
 me anë të
+Mecaj
+Mecalla
+Megi
 melodi
 më mirë
+Memishahi
 mendimi
 mendja
 mendoj
@@ -109435,6 +109569,7 @@ mesme
 mësoj
 mësojnë
 metalike
+Metani
 më tepër
 Metoda
 me zë të lartë
@@ -109590,10 +109725,12 @@ mirelavalter
 mirelaviorica
 mirelaxf8l8
 mirelayo
+Mirjana
 mirsevini
 mish
 misri
 Miss
+Mitrollari
 mjaft
 mjeku
 mjeshtër
@@ -109613,13 +109750,19 @@ motra
 mozart2017
 mprehtë
 muaj
+Muca
+Muldaka
 mulliri2019
 mund
 mundshme
+Murati
+Musteqja
 muzikë
 myrteza092004
 nacional2005
 naftës
+Naqellari
+Nasjan
 natën
 natyra
 natyrore
@@ -109631,9 +109774,11 @@ ndjek
 ndjerë
 ndodhë
 ndodhin
+Ndoka
 ndonëse
 ndonjë
 ndoshta
+Ndrecka
 ndritshme
 ndryshim
 ndryshoj
@@ -109648,6 +109793,7 @@ nëse
 nestikosta
 Në vend
 nevojshme
+Neza
 ngarkuar
 ngjarje
 ngjashme
@@ -109665,6 +109811,9 @@ njeri
 njësi
 njëzet
 njoftim
+Noj
+Note
+Note2019
 notoj
 notthistime
 nuk do të
@@ -109677,14 +109826,18 @@ nxitim
 oaz12345
 objekt
 oborr
+Odeta
 Oferta
 oksigjen
+Olta
 operoj
 oqean
+Orani
 organ
 organizoni
 origjinal
 orion2010
+Ornela
 osli
 osli07975
 OSli150
@@ -109750,6 +109903,7 @@ oslizgbal
 oslo2019
 oslooslo
 paguajnë
+Paja
 pajtim123
 pajtohem
 palace2016
@@ -109758,6 +109912,7 @@ palë
 pallto
 pambuku
 pamje
+Panair
 pa pagesë
 papritur
 para
@@ -109820,6 +109975,8 @@ peshk
 piera2018
 pije
 pikë
+pinderi
+Piroli
 pjesa
 pjesë
 plain
@@ -109847,6 +110004,7 @@ prerë
 pres
 presin
 pretendim
+Previzor
 prind
 print
 probleme
@@ -109858,6 +110016,7 @@ pronë
 provë
 provoj
 P@ssw0rd
+pts
 punë
 pushim
 pyes veten
@@ -113031,6 +113190,7 @@ real
 rei161616
 rekord
 relax1234
+Remi
 rëndë
 rënie
 rërë
@@ -113041,6 +113201,8 @@ reshat1992
 reshatin
 ReshatT1
 reshatxhanka
+Reziana
+reziana12
 Rezultati
 rias9988
 ridalridal
@@ -113050,6 +113212,7 @@ roll
 romeo123
 Romeo123
 ronaldo1999
+Rovena
 royal2019
 rrah
 rregull
@@ -113060,10 +113223,12 @@ rrethi
 rrezik
 rritet
 rrjedhë
+Rrogozi
 rrokje
 rrotë
 rrudhë
 rrugë
+Rrumbullaku
 ruani
 rubi2016
 runajabe
@@ -113072,14 +113237,22 @@ runajhje
 runway35
 sabatel_777
 sabatel vlore062
+Sabina
+Sadikllari
 Sajdi2019
 saktë
+Saliasi
 samoelo123
 sandri12
+Saraci
 së bashku
 secretgarden11
 segment
+Sejati
 seksion
+selba
+Sema
+SEO
 sezon
 shans
 shefi
@@ -113109,6 +113282,7 @@ shkruaj
 shkruar
 shkuar
 shndrit
+Shorja
 show
 shpatull
 shpejt
@@ -113216,15 +113390,18 @@ shtytje
 shumë
 shumës
 shumohen
+Shytermeja
 sidomos
 Sigurisht
 sigurojë
 sigurt
 simbol
+Sinani
 sipër
 sipërfaqe
 sistemi
 sjellë
+Skenderaj
 solli
 song
 sonila
@@ -113237,17 +113414,26 @@ SONILALELAJ
 sonilame
 sonilan
 soniland
+Spahiu
 stacion
 stay1234
+Stjuart
 stop
 stopaids
 string
 studenti
 Studimi
+Subashi
 subjekt
 substancë
+Suela
+Sufaj
 sugjerojnë
 suksesi
+Sula
+Sulaj
+Sulejmani
+Sulku
 Sunset
 surprizë
 syri2000
@@ -113256,6 +113442,7 @@ tabelë
 takohen
 tamel123
 tani
+Taulant
 të cilit
 të çojë
 të dy
@@ -113316,6 +113503,7 @@ theboss2019
 thellë
 them
 themelore
+Thimo
 thirrje
 thjeshtë
 thonë
@@ -113325,8 +113513,10 @@ toka
 tokë
 tokës
 tonë
+Topciu
 topsnack2016
 totale
+Traja
 tregojnë
 tregtisë
 tregu
@@ -113355,9 +113545,11 @@ u rrit
 ushqim
 ushtar
 ushtrim
+Vahidi
 vajzë
 vala
 vala2016
+valer
 valle
 valoni321
 valoniii
@@ -113365,11 +113557,14 @@ varet
 varfër
 varg
 varkë
+Vasilika
 vazhdojnë
 vdekja
 vdekur
 vdes
+Velaj
 vëlla
+Velo
 Velo2019
 vend
 vendi
@@ -113392,6 +113587,8 @@ vilanika20
 vins2019
 vipsvips2018
 vironi2020
+Vishnu
+vishnu2019
 visi1234
 vitori123
 vizitë
@@ -113407,8 +113604,12 @@ vrasin
 vrimë
 vrnezi2018
 west2016
+Xherda
 xheto1995
+Xhili
+Xhixho
 xhuli12345678
+Xhuliana
 xhuljana
 xhuljani
 xhuljano03081993
@@ -113581,6 +113782,7 @@ zamiruzakov
 zamiry26
 zamiryxu
 zamir-zg
+Zanaliu
 zanore
 zbres
 zemërimi
@@ -113590,6 +113792,7 @@ zgjidhni
 zgjidhur
 zhurmë
 zhvilloj
+Ziko
 zile
 zjarri
 zogth
