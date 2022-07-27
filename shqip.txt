@@ -33,8 +33,6 @@
 0694110299
 0698953454Natalia
 0699151933
-06flashlight06BK
-06flashlight06BKK
 070707
 08091972
 09031994
@@ -158,6 +156,7 @@
 170156
 170260
 170442
+17132008
 172702136126695
 175000
 1795350
@@ -37716,6 +37715,7 @@ brooks
 brookut
 broomfield
 broonzy
+broother
 brosha
 broshk
 broshur
@@ -108437,6 +108437,7 @@ kundërta
 kuptim
 kurrë
 kusht
+kushtrim1
 kuti
 kuzhinier
 laberia1
@@ -113390,6 +113391,7 @@ vins2019
 vipsvips2018
 vironi2020
 visi1234
+vitori123
 vizitë
 vjetër
 Vlera
