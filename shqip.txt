@@ -108560,6 +108560,7 @@ lame2018
 largohen
 Laska
 Latifi
+Latifi2019
 Laureta
 Lavastovilie
 lehtësuar
@@ -109756,6 +109757,7 @@ mulliri2019
 mund
 mundshme
 Murati
+Murati2019
 Musteqja
 muzikë
 myrteza092004
@@ -109794,6 +109796,7 @@ nestikosta
 Në vend
 nevojshme
 Neza
+Neza2020
 ngarkuar
 ngjarje
 ngjashme
@@ -113415,6 +113418,7 @@ sonilame
 sonilan
 soniland
 Spahiu
+Spahiu0919
 stacion
 stay1234
 Stjuart
@@ -113434,6 +113438,7 @@ Sula
 Sulaj
 Sulejmani
 Sulku
+Sulku2019
 Sunset
 surprizë
 syri2000
@@ -113514,6 +113519,7 @@ tokë
 tokës
 tonë
 Topciu
+Topciu12
 topsnack2016
 totale
 Traja
