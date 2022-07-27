@@ -11809,6 +11809,7 @@ allakauboj
 allalla
 allaman
 allamani
+Allamani12
 allambres
 allambrez
 allami
@@ -113369,6 +113370,7 @@ vdekja
 vdekur
 vdes
 vëlla
+Velo2019
 vend
 vendi
 vendos
