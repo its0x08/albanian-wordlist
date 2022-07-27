@@ -12960,7 +12960,6 @@ americans
 americas
 amerik
 amerika
-﻿Amerika!23
 Amerika!23
 amerikan
 amerikanad
@@ -109858,6 +109857,7 @@ produkt
 pronë
 provë
 provoj
+P@ssw0rd
 punë
 pushim
 pyes veten
