@@ -64,6 +64,7 @@
 11shkurt
 11shtator
 120606
+12341234
 12344321
 1234512345
 123454321
@@ -143,6 +144,7 @@
 16012006
 160222005
 1605036495Ja
+16051967
 160mmhg
 16101966
 16111951
@@ -365,6 +367,7 @@
 25matematik
 25universiteti
 26022004
+27041979
 27122013
 28021970BB
 29071983
@@ -18070,6 +18073,7 @@ ardit.hunci
 arditi
 arditibranj
 Ardit Ibranj
+arditierika
 arditin
 arditit
 Arditivw103
@@ -65192,6 +65196,7 @@ erdhur
 erdhurve
 erdhve
 Erdi1234
+erdi1994
 erdind
 erdini
 erdinit
@@ -88267,6 +88272,7 @@ hacker
 hackerash
 hackerat
 hackerazzi
+hacker.fuck-1
 hackeri
 hackerimit
 hackers
@@ -109068,6 +109074,7 @@ katerinakambo7
 kati
 katran
 katrore
+kavaja123
 Kazia
 Kdasniqi
 keci
@@ -109669,6 +109676,7 @@ lehtësuar
 lejojnë
 Leka
 lëkurës
+lele8888
 lëngshme
 Leonard
 leonardfilaj9
@@ -110747,6 +110755,7 @@ marjomekaniku
 marjoresulaj123454321
 marjus
 Marjus
+marjuskavaja
 mark
 markelioan26maj
 markelndokaj2003
@@ -111156,6 +111165,7 @@ në mesin e
 në mes të
 nendetsja105
 nënë
+neni1234
 nëntë
 nerindahysa
 Nerinda hysa
@@ -111438,6 +111448,7 @@ pikë
 pinderi
 pingpong_egjoka
 Piroli
+pizzaio
 pjesa
 pjesë
 Pjeter
@@ -114895,6 +114906,8 @@ shifër
 shih
 shikojnë
 shikoni
+shishabar
+shitypetrol
 shkaku
 shkallë
 shkelzenalla2010
@@ -115099,6 +115112,7 @@ spahiuxhuliano
 Spaho
 Spartak
 spartakmaliqi7
+spartaku
 Spiro
 spiro_paco
 Spore
@@ -115177,6 +115191,7 @@ të dy
 të fillojë
 të gjerë
 të gjithë
+tegjyshi
 të jetë e mundur
 të krahasuar
 tela
