@@ -1,4 +1,5 @@
 ﻿000000000000000
+00000001
 003Amorepuro
 0046762472771
 01031988
@@ -91,6 +92,7 @@
 12million
 13041211
 13041960
+13141516
 1357924680Asd
 1394000
 13lushnje
@@ -241,7 +243,6 @@
 1force
 1gusht
 1Higertagkerta
-1hPbnXWu3
 1ionpelje
 1KBrh35s6
 1ky36th2Z
@@ -254,6 +255,7 @@
 1milion
 1milione
 1milioneve
+1morina2
 1muiliard
 1nj3ctor
 1NKXadarX
@@ -287,6 +289,7 @@
 2013000079552065
 20131111
 20131114
+20152015
 2015alfbar
 2015en
 20161030
@@ -298,8 +301,10 @@
 20170524
 20182018
 2018roalb
+2019zefi
 20202020
 2020Covid.19
+20222022
 202603
 205255
 20final
@@ -327,6 +332,7 @@
 21prill
 221271
 22222222
+22224444
 22342234
 2239111
 224ks643
@@ -23595,8 +23601,6 @@ aurelien.malaise
 aurelienmalaise
 AURELIEN.MALAISE
 aurelien.malaise111
-aurelien.malaiseaurelienasd
-aurelien.malaiseneilerua
 aurelienoe
 aurelienoisier
 aurelien.p
@@ -42417,7 +42421,6 @@ chevron
 cheyenne
 cheymos
 cheyua
-cheywa
 chhattisgrah
 chhristof
 chiamamo
@@ -42461,7 +42464,6 @@ chihuahua
 chikagos
 chikan
 chikhura
-chiki_wang
 chilavert
 childhood
 children
@@ -42469,7 +42471,6 @@ childs
 chillin
 chilton
 chiltonit
-chilwell
 chimaeria
 chimborazo
 chimer
@@ -42485,7 +42486,6 @@ chiostro
 chipat
 chipmunks
 chipperfield
-chippewa
 chirac
 chirico
 chiricos
@@ -42499,8 +42499,6 @@ chistopher
 chiuanit
 chiuri
 chivers
-chiwetal
-chiwetel
 chloie.demiri
 chlorpyrifos
 chmerkovskiy
@@ -42509,7 +42507,6 @@ chochlanov
 chochoroska
 chocolat
 chocolate
-choctaw
 chodas
 choice
 choigou
@@ -42534,7 +42531,6 @@ choral
 choregie
 choregies
 chorleiterin
-chorleywood
 chornomorets
 chorographia
 chorus
@@ -42581,7 +42577,6 @@ christophe
 christopher
 christopherit
 christophernolanit
-christophwaltz
 christos
 christoulas
 christov
@@ -51709,6 +51704,7 @@ dhoksi
 dhoksin
 dhoksit
 dholan
+dhoma222017
 dhomash
 dhomat
 dhomatregtise
@@ -109467,6 +109463,7 @@ klausprospect57
 Klea
 Kleanti
 kleanti1810
+kledi123
 klejdadanjela24582
 Klejdi
 klejdi07
@@ -109665,6 +109662,7 @@ LAZE
 Ledina
 ledinatepshi
 Ledio
+ledio111
 Lediona
 Ledio.shulla
 ledioto9
@@ -110761,6 +110759,7 @@ markelioan26maj
 markelndokaj2003
 Marketing
 marketing2016
+marketredoni
 marko
 markobanaj16
 marku
@@ -115143,6 +115142,7 @@ suela-margjeka
 suela.sula2
 Sufaj
 sugjerojnë
+suhareka04
 Suka
 suksesi
 Sul
@@ -115448,9 +115448,7 @@ vrasin
 vrimë
 vrnezi2018
 Vullnet
-wer
 west2016
-westi91
 xhafa
 Xhafa
 Xhaka
@@ -115673,8 +115671,6 @@ zamirpseunov
 zamirrus
 Zamirs
 zamirsa111
-zamirsiño
-zamirsyawal
 zamirte
 zamirtkm
 zamirtqm
