@@ -52,6 +52,7 @@
 10minuta
 10october
 10prill
+11111119
 11112222
 111student
 11ersek
@@ -25136,6 +25137,7 @@ avrulli
 avrupa
 avspark
 avstrakte
+Avto2019+
 avtorot
 avujsh
 avujve
@@ -114926,6 +114928,7 @@ shkuar
 Shkurta
 Shkurti
 shkurtiandi8
+SHMEL2019
 shndrit
 SHOKIE
 Shorja
