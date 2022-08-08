@@ -29,6 +29,7 @@
 068Shehuenes
 068ShehuEnes
 0692072300
+069227811
 0692421522
 0693144479
 0693249475
@@ -148,7 +149,6 @@
 160222005
 1605036495Ja
 16051967
-160mmhg
 16101966
 16111951
 1614479
@@ -158,7 +158,6 @@
 163dib
 168792
 16901700
-16NxSmzy1
 170000
 170156
 170260
@@ -183,7 +182,6 @@
 18773645
 187usd
 189733
-18meps
 18shkurt
 19061969
 19101982
@@ -259,7 +257,6 @@
 1morina2
 1muiliard
 1nj3ctor
-1NKXadarX
 1person
 1qershor
 1shkurt
@@ -283,7 +280,6 @@
 200mah
 200mije
 200miljon
-200mmix
 2010raporti
 2011dhe
 2011nd
@@ -545,6 +541,7 @@
 75mije
 75x98m
 764791
+76543210
 76ersme
 788492
 7dyqan
@@ -2361,6 +2358,7 @@ adhuruesve
 ADHygPUcc
 Adi
 Adi120215
+adi12345
 adiabatik
 adianom
 adibida
@@ -7432,6 +7430,7 @@ albania2007
 ALBANIA2007
 albania2009
 Albania2010
+albania2019
 ﻿albania2020
 albania21
 albania23
@@ -34071,6 +34070,7 @@ bizaritetit
 bizarja
 bizarr
 bizarre
+bizarre1
 bizata
 Bizata
 bizati
@@ -42092,6 +42092,7 @@ cfinjat
 cfirin
 cfirit
 cfokusimi
+c-front1
 cfryjne
 cfTfeosPR
 cfurku
@@ -58296,6 +58297,7 @@ dujardin
 dujeni
 dujhet
 Duka
+duka2021
 dukagin
 dukagino
 dukagjin
@@ -109551,6 +109553,8 @@ kontrollit
 kontrolloj
 kopje
 kopsht
+koral1234
+koral2019
 Korbi
 Koroevshi
 Koroni
@@ -109816,6 +109820,7 @@ Llupo
 Lodian
 lodian86
 lojë
+lombard333
 lonadragjoshi
 lopë
 Lorenc
@@ -110407,6 +110412,7 @@ luaninhaloka
 luaninhare
 luanis01
 luanis02
+luanisad
 luanita02
 luanita147
 luanita1981
@@ -111066,6 +111072,7 @@ Moseprek
 mosha
 motor
 motra
+motta2018
 moza_elezi
 mozart2017
 mprehtë
@@ -114741,6 +114748,7 @@ reshat1992
 reshatin
 ReshatT1
 reshatxhanka
+restorant123
 Revani
 Rexhaj
 Rexhep
