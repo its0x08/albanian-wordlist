@@ -115,7 +115,6 @@
 1500mpriten
 1501110002347957
 15038856
-150mbps
 151059
 151303
 151960
@@ -171,7 +170,6 @@
 17mars
 180000
 18031999
-180mmhg
 181166
 182198
 18273645
@@ -242,14 +240,10 @@
 1force
 1gusht
 1Higertagkerta
-1ionpelje
-1KBrh35s6
-1ky36th2Z
 1l1r1999
 1l1r25
 1Luletedyja1
 1Marsida
-1mhealthtips
 1miliard
 1milion
 1milione
