@@ -21,7 +21,7 @@ jobs:
         run: |
           git config --local user.email ${{ secrets.EMAIL }}
           git config --local user.name "its0x08"
-          git add outputs/*
+          git add shqip.txt
           git commit -m "chore: Sort wordlist[action]"
 
       - name: Push changes
