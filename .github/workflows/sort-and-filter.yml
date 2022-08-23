@@ -1,0 +1,31 @@
+name: sort-and-filter
+
+on: push
+
+jobs:
+  sort-and-filter-wordlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sort and filter wordlist
+        run: sort -u shqip.txt -o shqip.txt
+
+      - name: Set current date
+        run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Commit changes
+        run: |
+          git config --local user.email ${{ secrets.EMAIL }}
+          git config --local user.name "its0x08"
+          git add outputs/*
+          git commit -m "chore: Sort wordlist[action]"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
