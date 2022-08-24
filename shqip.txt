@@ -38,6 +38,7 @@
 0693144479
 0693249475
 0694110299
+0694645585
 0698953454Natalia
 0699151933
 070707
@@ -79,30 +80,6 @@
 1234512345
 123454321
 12345555
-mateo2003
-mateo1984
-dolcevita
-Sazani2020
-2018LIVE
-eridanola
-Taulant12
-likaj2022
-piazza2019
-hotelvlora2019
-arsen1234
-0694645585
-nukedipra
-tereza1234
-klaudioshehi
-gerti1234
-daisy2015
-coloseo11
-siara2018
-17132008
-etleva1234
-gimokabar1802
-rolandcole
-jetnor1977
 123456
 12345654321
 1234566
@@ -323,6 +300,7 @@ jetnor1977
 20170317
 20170524
 20182018
+2018LIVE
 2018roalb
 2019zefi
 20202020
@@ -6067,6 +6045,7 @@ Samarxhiu
 Samel
 Saraci
 Savjola
+Sazani2020
 Sebastiano
 Sebastjan
 Sefedini
@@ -6182,6 +6161,7 @@ Tajar
 Tashi
 Tashii
 Taulant
+Taulant12
 Tea
 Teliti
 Tepshi
@@ -24136,6 +24116,7 @@ arsen.murja
 arsen.toci
 arsen.toci1
 arsen.zenelaj16
+arsen1234
 arsenal
 arsenale
 arsenalet
@@ -47196,6 +47177,7 @@ colorite
 colorlab
 colormania
 colors
+coloseo11
 coloseumin
 coloseut
 colosseo
@@ -48680,6 +48662,7 @@ daimler
 daimond
 daiquiri
 dairet
+daisy2015
 dajakit
 dajaku
 dajakun
@@ -58993,6 +58976,7 @@ dolanit
 dolanku
 dolberg
 dolcetto
+dolcevita
 dolebin
 doleku
 dolekut
@@ -68370,6 +68354,7 @@ ericksonit
 ericma
 ericson
 ericsson
+eridanola
 eridian
 eridjola
 eridjoldrizaku
@@ -83902,6 +83887,7 @@ gertguni
 gerthuer
 gerti.konica
 gerti052
+gerti1234
 gertian
 gertibego
 gerticuni
@@ -97492,6 +97478,7 @@ hotelore
 hotelrestorant
 hotels
 hotelskampa
+hotelvlora2019
 hotelxhinjt
 hotelxhiu
 hotelxhiun
@@ -111890,6 +111877,7 @@ klaraza
 klarazedkin
 klasë
 klatijuri2
+klaudioshehi
 klaus
 klausprospect57
 kleanti1810
@@ -112244,6 +112232,7 @@ lidjonkarbunara77
 ligji
 lijemasha2018
 lika
+likaj2022
 likaj_marikela
 likamarsim
 lilainessa91
@@ -113175,6 +113164,8 @@ marselmusara
 marsim
 martintabaku5
 marvi2010
+mateo1984
+mateo2003
 material
 matilda.xhika.1
 matildamatimati
@@ -113504,6 +113495,7 @@ notthistime
 nuk do të
 nukediasun
 nukediff
+nukedipra
 numri
 numëror
 nxeh
@@ -113689,6 +113681,7 @@ pesë
 petigriselda5
 petrit
 petritdervishi
+piazza2019
 picalli
 piera2018
 pije
@@ -116356,6 +116349,7 @@ rikucollaku
 rivi.ballxhian32
 robert2020
 rolandbacova2
+rolandcole
 rolandkaci76
 roll
 romario_uruci
@@ -116626,6 +116620,7 @@ shumës
 shurdhotaulant
 shënim
 shërbejnë
+siara2018
 sidomos
 sidurimi13
 sigurojë
@@ -116859,6 +116854,7 @@ tegjyshi
 tela
 temateos
 temperatura
+tereza1234
 terimustafaraj79
 terionm7
 term
