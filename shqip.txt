@@ -69422,6 +69422,7 @@ eshtaolin
 eshtaolit
 eshtat
 eshtde
+eshte
 eshteedhe
 eshteje
 eshtemoan
@@ -117525,4 +117526,3 @@ zyrë
 çështje
 ëndërr
 është
-eshte
