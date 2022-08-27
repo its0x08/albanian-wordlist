@@ -13,7 +13,7 @@ jobs:
 
       - name: Sort and filter wordlist
         run: |
-          export $LLC_ALL=C
+          export LLC_ALL=C
           sort -u shqip.txt -o shqip.txt.tmp 
           mv shqip.txt.tmp shqip.txt
 
