@@ -14,8 +14,7 @@ jobs:
       - name: Sort and filter wordlist
         run: |
           export LLC_ALL=C
-          sort -u shqip.txt -o shqip.txt.tmp 
-          mv shqip.txt.tmp shqip.txt
+          sort -ud shqip.txt -o shqip.txt
 
       - name: Set current date
         run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
