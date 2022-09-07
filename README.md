@@ -8,7 +8,7 @@
 
 ## TODO
 
-* Add more `hashcat` rule
+* Add more `hashcat` rules
 * Add more `words` to the list
 * Filter `words` better
 
