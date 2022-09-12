@@ -164018,6 +164018,7 @@ mirëve
 mirw
 mirwell
 mirwsevini
+mirza
 mirëzukatës
 mis
 misafit
@@ -230127,5 +230128,3 @@ zyrëtarëve
 zyte
 zyzja
 zëzë
-francesco
-mirza
