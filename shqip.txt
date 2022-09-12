@@ -2225,6 +2225,7 @@ Anela
 AngCgpSxP
 Angela
 Angela123
+Angela69
 Angela99
 Angelica
 Angelika
@@ -5473,6 +5474,7 @@ Pashke
 Password
 Patoku
 Paulaner
+Paulinka
 Peçi
 Peposhi
 Perparim
@@ -122329,6 +122331,7 @@ hotel
 hotel1234500
 hotel2000
 hotel2017
+hotel4
 hotel999
 hotelaleksiona
 hoteldolcevita
@@ -158120,6 +158123,7 @@ malvinabasho
 malvole
 mam
 mama
+mama008
 mamai
 mamait
 mamaj
@@ -230128,7 +230132,3 @@ zyrëtarëve
 zyte
 zyzja
 zëzë
-Paulinka
-hotel4
-mama008
-Angela69
