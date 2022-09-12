@@ -71,6 +71,7 @@
 10minuta
 10october
 10prill
+1111
 11111111
 11111119
 11112222
@@ -93,8 +94,10 @@
 123123123
 123123321
 12312345
+1234
 12341234
 12344321
+12345
 1234512335
 1234512345
 123454321
@@ -307,6 +310,8 @@
 2000000
 20000000
 200000000
+2000IVINTE
+2000Ivinte
 2000hotel
 2000km
 2000m2
@@ -333,6 +338,7 @@
 20152015
 2015alfbar
 2015en
+2016
 20161030
 20162016
 2016ne
@@ -423,6 +429,7 @@
 25matematik
 25universiteti
 26022004
+2610sensit
 27041979
 27122013
 28021970BB
@@ -3237,6 +3244,7 @@ Chelsea1905
 Ci1970
 Cibaku
 Ciccino73
+Cicero
 Cima
 Cimicotaasd1
 Cini
@@ -3256,6 +3264,7 @@ Claudine
 Claudiogenchi
 CleoPolovina1
 Clod87
+Cloud
 CmNRc9ZRZ
 Cn5s26b7e
 Cn7GKR2nX
@@ -3276,6 +3285,7 @@ Currana
 Currela
 CyayfmwFP
 CyeD9yZX5
+Cyprus
 D1vergent
 DANILA
 DANJEL
@@ -3679,6 +3689,7 @@ Edi
 Ediar
 Edigjoni1993
 Edison
+Edita
 Edlin
 Edlira
 Edliriana
@@ -4069,6 +4080,7 @@ Fetahu
 FgeE3HS6m
 FhDp7EPeF
 Fidane
+Fidel
 Fiera5
 Fierball56
 Fierce555
@@ -4340,6 +4352,7 @@ Griseld
 Griselda
 Griz,Patos
 Groshi
+Group
 Grover
 Gs19944991
 GsDyzAcur
@@ -4982,6 +4995,7 @@ Kosovan07
 Kosovo
 KosovoPRizen
 Kosta
+Kostas
 Kote
 Kozeta
 Kraja
@@ -6140,6 +6154,7 @@ Ramazzini
 Ramazzotti
 Ramazzotti123
 Ramis
+Randy
 Rançi
 Ranxha
 Rapo
@@ -6461,6 +6476,7 @@ Voltan
 Voska
 Vpga2018
 Vullnet
+World
 XHELIL
 XHEPA
 Xhafa
@@ -7141,6 +7157,7 @@ abdullahefendiu
 abdullah.karakuyu
 abdullah.nurko
 abdullah.portakalci
+abdullahsister
 abdullahte
 abdullahth
 abdullahu
@@ -9131,6 +9148,7 @@ aediles
 aee
 aegean
 aeiman
+aek
 aelianum
 aelianus
 aelita
@@ -28228,6 +28246,7 @@ artunda
 artur
 artura
 arturas
+arturbejdaj
 arturcala
 arturdeda
 arturdoqi
@@ -30413,6 +30432,7 @@ atsmoni
 atsuko
 atsumi
 atët
+att att
 atta
 attaboy
 attacco
@@ -45112,6 +45132,7 @@ boboshtic
 boboshtica
 boboshticar
 boboshtice
+bobot
 bobota
 bobovac
 bobrati
@@ -72739,6 +72760,7 @@ dëpërtojë
 dps
 dpshtr
 dpshtrr
+dr dr
 drC1k4G5M
 dra
 drab
@@ -83562,6 +83584,7 @@ equitum
 equity
 eqvitata
 eqytetit
+er er
 era
 eraamelia
 erabehar
@@ -123706,6 +123729,7 @@ hydrated
 hydro
 hydrogen
 hydroides
+hydrokusek
 hydrolysis
 hydromet
 hydropower
@@ -133415,6 +133439,7 @@ isus
 isvazhdojn
 iswarienko
 isweeep
+it it
 çita
 itaca
 itadel
@@ -171286,6 +171311,7 @@ nikolas
 nikolasi
 nikolasin
 nikolasit
+nikolaskushuriri
 nikolasl
 nikolen
 nikoles
@@ -206850,6 +206876,7 @@ sibora2015
 sibruk
 sibruku
 sic
+sic sic
 sicili
 sicilia
 sicilian
@@ -207372,6 +207399,7 @@ simus
 simusi
 simusit
 sin
+sin sin
 sina
 sinagogë
 sinagogat
@@ -208794,6 +208822,7 @@ snukkël
 snukles
 snup
 snupp
+so so
 soandex
 soanza
 soanzës
@@ -216172,6 +216201,7 @@ toret
 toreto
 toreton
 toretos
+toretos9270
 torfën
 tori
 torii
@@ -218370,6 +218400,7 @@ tul
 tule
 tulesh
 tulet
+tulioramal123
 tulipan
 tulipani
 tulipanët
@@ -227542,6 +227573,7 @@ zakariasi
 zakarinë
 zaki
 zakia
+zakia-1234
 zakias
 zakin
 zakir
@@ -230069,73 +230101,3 @@ zyrëtarëve
 zyte
 zyzja
 zëzë
-Fidel
-toretos9270
-sic sic
-matina
-sin sin
-fierak
-1111
-tom
-12345679
-fighter
-kostas
-1234
-zakia-1234
-bordel
-tonin
-2016
-Cyprus
-davide
-Randy
-resident
-password
-Cloud
-gangster
-kalimera
-cindy
-original
-it it
-bobot
-elbasan
-nikos
-World
-albania
-nikolaskushuriri
-aek
-phantom
-12345
-2610sensit
-abdullahsister
-arta
-Cicero
-Edita
-hamilton
-champion
-enduro
-pluto
-123456
-Kostas
-arturbejdaj
-emiliano
-att att
-2000Ivinte
-kalamata
-er er
-tulioramal123
-mike
-12121212
-Group
-12345678
-antonis
-Ibrahim
-Blerina
-antonia
-hydrokusek
-alabama
-so so
-dr dr
-ryan
-2000IVINTE
-joni
-barbie
