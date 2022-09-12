@@ -64,6 +64,7 @@
 10101000
 10101010
 101010101
+10121982
 10bujari
 10fish
 10kilovolt
@@ -255,6 +256,7 @@
 1957soni
 1966faksimile
 1966sekretarit
+19671967
 1969ne
 1974023099520671
 19751234
@@ -269,6 +271,7 @@
 19861989
 1989me
 1989pa
+19901990
 1990kopertina
 1990ngjarjet
 1990pritej
@@ -277,6 +280,7 @@
 19941994
 1994jeni
 19961996
+19971997
 19971997St
 1997Esme
 1997tes
@@ -371,6 +375,7 @@
 20revised
 20vjet
 21032007
+21041960
 21071991
 211290Sk
 213899
@@ -4490,6 +4495,7 @@ Hb20030905
 HcGgBDdEM
 Heartbeat01
 Heges
+Heineken
 Hekuran
 Hekurane
 Hekurani1
@@ -17268,6 +17274,7 @@ alevit
 alevite
 alevitet
 alex
+alex11
 alexa
 alexand
 alexander
@@ -65132,6 +65139,7 @@ devijuara
 devijuat
 devijues
 devijuese
+devika-1988
 devil
 devilit
 deville
@@ -101793,6 +101801,7 @@ gamiles
 gamilet
 gamilja
 gaming
+gamisi
 gamixhanin
 gamma
 gammon
@@ -121871,6 +121880,7 @@ hon
 honami
 honcho
 honda
+honda600
 hondan
 hondas
 hondat
@@ -128399,6 +128409,7 @@ indy
 indycar
 inçe
 inedite
+ineedyou
 inefektiv
 inefektivitetin
 ineficenc
@@ -230117,31 +230128,3 @@ zyrëtarëve
 zyte
 zyzja
 zëzë
-mimi
-123123123
-fierak
-tom
-kostas
-10121982
-gangster
-honda600
-elbasan
-nikos
-albania
-nikolaskushuriri
-19971997
-19901990
-alex11
-arta
-Edita
-Heineken
-19671967
-gamisi
-devika-1988
-tulioramal123
-ineedyou
-21041960
-antonis
-Ibrahim
-Blerina
-antonia
