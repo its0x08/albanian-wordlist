@@ -274,6 +274,7 @@
 1990pritej
 1990sekretarit
 1991blloku
+19941994
 1994jeni
 19961996
 19971997St
@@ -3475,6 +3476,7 @@ Diellare
 Diellonja
 Diellor
 Diellore
+Digitalb
 Dihm.95des
 Dijana
 Dijara
@@ -3960,6 +3962,7 @@ Eurosia57
 Eva
 Evaeva123
 Evalupi3
+Evelina
 Evens
 Evieljo18
 Evloindakoci
@@ -6160,6 +6163,7 @@ Ranxha
 Rapo
 Rashiti
 Rea
+Reality
 Recepsioni
 Red
 Redi Bocerri
@@ -6342,6 +6346,7 @@ Spaho
 Spartak
 Spiro
 Spore
+Spring1
 Stafa
 Stavri Josifi
 Stavro
@@ -6455,6 +6460,7 @@ Veseli
 Veshaj
 Veshti
 Vezi
+Vikinget
 Vila-2014
 Vilma
 Vilson
@@ -20444,6 +20450,7 @@ andela
 andelan
 andena
 andeologjik
+andera
 andergraund
 anderi
 anderim
@@ -20801,6 +20808,7 @@ anemike
 anemin
 anemis
 anemit
+anemona
 anen
 anergji
 anerisht
@@ -59947,6 +59955,7 @@ dayou
 dayr
 days
 dayton
+daytona
 daytoni
 daytonit
 dayue
@@ -109565,6 +109574,7 @@ golf
 golfe
 golfer
 golfet
+golfgti
 golfi
 golfijanë
 golfin
@@ -113018,6 +113028,7 @@ gulçita
 gulçitet
 gulçitje
 gulçitur
+guliver
 guliverit
 guljajev
 guljejm
@@ -126515,6 +126526,7 @@ ilosoviç
 ilotaj
 ilotarie
 ilovefox
+iloveny
 ilovica
 ilpirskit
 ilqeja
@@ -176393,6 +176405,7 @@ panza
 panzer
 panzhar
 panzën
+paolina
 paolini
 paolinin
 paolinit
@@ -178229,6 +178242,7 @@ paul
 paula
 paçuli
 paulin
+paulina
 paulit
 paull
 paulli
@@ -210371,6 +210385,7 @@ statutin
 statutit
 stauffenberg
 stauffenbergu
+stauros
 stavrijosifi
 stavros
 stay
@@ -223067,6 +223082,7 @@ victimat
 victor
 victori
 victoria
+victorr
 victorville
 victory
 victorya
@@ -230101,20 +230117,3 @@ zyrëtarëve
 zyte
 zyzja
 zëzë
-daytona
-golfgti
-Vikinget
-Digitalb
-123456789
-iloveny
-Spring1
-anemona
-Reality
-guliver
-victorr
-stauros
-paolina
-paulina
-andera
-Evelina
-19941994
