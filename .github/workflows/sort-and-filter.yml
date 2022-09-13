@@ -1,6 +1,13 @@
 name: sort-and-filter
 
-on: push
+on: 
+  push:
+    paths:
+      - "shqip.txt"
+
+env:
+  TARGET: shqip.txt
+  OUTPUT_TEMP: .shqip.txt 
 
 jobs:
   sort-and-filter-wordlist:
@@ -14,7 +21,8 @@ jobs:
       - name: Sort and filter wordlist
         run: |
           export LLC_ALL=C
-          sort -ud shqip.txt -o shqip.txt
+          sort -ud $TARGET -o $OUTPUT_TEMP
+          mv $OUTPUT_TEMP $TARGET
 
       - name: Set current date
         run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
@@ -23,7 +31,7 @@ jobs:
         run: |
           git config --local user.email ${{ secrets.EMAIL }}
           git config --local user.name "its0x08"
-          git add shqip.txt
+          git add $TARGET
           git commit -m "chore: Sort wordlist[action]"
 
       - name: Push changes
